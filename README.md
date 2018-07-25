@@ -1,2 +1,2 @@
-# jjarag.github.io
-Jorge's Jara Webpage
+# Jorge's Jara Research Webpage
+This is the template to build my personal research webpage.
