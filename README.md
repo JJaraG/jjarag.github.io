@@ -1,19 +1,8 @@
-Fresh is a free blog template for Jekyll
+# Jorge's Jara Research Webpage
+
+I have used Fresh template, that is a free blog template for Jekyll. View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
+
 =============================
-
-![](assets/img/fresh.jpg)
-
-# Demo
-
-![GIF](assets/img/fresh.gif)
-
-View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
-
-Integrations
-  - [Google Fonts](https://fonts.google.com/)
-  - [Disqus](https://disqus.com/)
-  - [Font Awesome](http://fontawesome.io/)
-  - Social media links
 
 # How to Use
 
