@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: https://jjarag.github.io/research/
+permalink: /research/
 author_profile: true
 ---
 <p align="justify">I am a geophysicist with an observational seismogeodetic profile (combination of seismology and geodetic observables) complemented by numerical modeling. During my research journey, my primary research goal focused on understanding the role of aseismic slip across the Seismic Cycle, centering on when, why, and how earthquakes (EQs) occur and their relationship with the local seismotectonics. This research journey has contributed to developing skills to analyze a broad energetic spectrum, ranging from slow phenomena (aseismic slip) to fast ones (EQs). Such work has been complemented by processing Global Navigation Satellite System data (GNSS) and fieldwork (design, installation, and maintenance) to understand the physical mechanisms of fault deformation. I have also been interested in how complex geometries affect rupture processes by studying the transition to supershear EQs and its relationship with the EQ high-frequency radiation. </p>
