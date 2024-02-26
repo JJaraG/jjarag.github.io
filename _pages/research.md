@@ -8,18 +8,18 @@ author_profile: true
 
 <h2><b><a href="https://jjarag.github.io/research/seismotectonics">Seismotectonics</a></b></h2> 
 <div class="figure">
-<img src="/images/seismotectonics_intro.png" width="600">
+<img src="/images/research/seismotectonics_intro.png" width="600">
 <p class="caption">Coastal Scarp in Northern Chile</p>
 </div>
 
 <h2><b><a href="https://jjarag.github.io/research/aseismic">Aseismic slip across the EQ cycle</a></b></h2> 
 <div class="figure">
-<img src="/images/cycle.png" width="600">
+<img src="/images/research/cycle.png" width="600">
 <p class="caption">Current EQ cycle representation</p>
 </div>
 
 <h2><b><a href="https://jjarag.github.io/research/supershear">EQ rupture speed and high-frequency radiation</a></b></h2> 
 <div class="figure">
-<img src="/images/super.png" width="600">
+<img src="/images/research/super.png" width="600">
 <p class="caption">Supershear transition seen by aftershock distribution</p>
 </div>
