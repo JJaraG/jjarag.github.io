@@ -15,7 +15,7 @@ author_profile: true
 
 <div class="figure">
   <p align="center">
-<img src="/images/seismotectonics.jpeg" width="600">
+<img src="/images/research/seismotectonics.jpeg" width="600">
 <p class="caption"><p align="justify">(a) Iquique EQ data (blue) and synthetic seismograms (red) along with its kinematic slip model (b). (c) High-resolution topography and (d) free-air gravity anomaly. Mainshock (green) and aftershock (pink) slip contours are plotted. Violet line represents the location of an abrupt change on dip angle of the slab</p></p>
   </p>
 </div>

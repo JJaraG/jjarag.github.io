@@ -26,7 +26,7 @@ author_profile: true
 
 <div class="figure">
   <p align="center">
-<img src="/images/aseismic.png" width="600">
+<img src="/images/research/aseismic.png" width="600">
 <p class="caption"><p align="justify">(a) GNSS network in Ismetpasa, Turkey. (b) East GNSS displacement. (c) East PC using MSSA, along with the correlation function from GTM (template 30 days, $M_w$ 4) using MSSA-PC (gray) and raw-data (orange). (d) Event source model using MSSA (gray data, red model) and raw-data (orange data, mangenta model). Results are compared with those provided by creepmeters during the same period.</p></p>
   </p>
 </div>
