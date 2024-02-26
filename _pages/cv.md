@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV March 2023](/files/CV/CV_JorgeJara.pdf)
+
+[ORCID 0000-0002-7528-4437](https://orcid.org/0000-0003-3176-0689)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- 2013 - 2018. Ph.D. Earth Sciences, Grenoble-Alpes University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- 2011 - 2013. M.Sc. Geophysics, Universidad de Chile
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+- 2006 - 2010. B.Sc. Geophysics, Universidad de Chile
+ 
+Academic Appointments
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+- 2022/11 - 2024/11. Seismic Hazard and Risk Dynamics Team. GFZ, Potsdam, Germany.<br>
+MSCA Postdoctoral Fellow.
+
+- 2018/04 - 2022/10. Laboratoire de Géologie. École Normale Supérieure, Paris, France.<br>
+Postdoctoral Researcher.
+
+- 2013/11 - 2018/03. ISTErre, Grenoble-Alpes University, Grenoble, France.<br>
+Graduate Research Assistant.
+ 
+- 2010/03 - 2013/10. Geophysics Department, University of Chile, Santiago, Chile.<br>
+Research assistant.
+ 
+Grants and Fellowships
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 2022 - 2024. POF-V GFZ Field Mission Program. 
+- 2022 - 2024. Marie Curie Fellowship, EU Comission. 
+- 2013 - 2018. Becas Chile, four year fellowship for international graduate studies
