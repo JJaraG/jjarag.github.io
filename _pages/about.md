@@ -28,4 +28,6 @@ Research Interests
 News
 ======
 
-- <p align="justify">March 2023: Our session in the interplay between seismic and aseismic deformation on seismogenic faults has been accepted for the 2024 EGU General Assembly. See you in Vienna in April!</p>
+- <p align="justify">February 2024: Our session in the interplay between seismic and aseismic deformation on seismogenic faults has been accepted for the 2024 EGU General Assembly. See you in Vienna in April!</p>
+
+- <p align="justify">January 2024: Our session in the next ESC General Assembly has been accepted. Call for abstract is still open!. See you in Corfu in September!</p>
