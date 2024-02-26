@@ -21,3 +21,5 @@
 **Jara, J.**, Bruhat, L., Thomas, M. Y., Antoine, S. L., Okubo, K., Rougier, E., Rosakis, A. J., Sammis, C. G., Klinger, Y., Jolivet, R., & Bhat, H. S. <i>PRSA</i>, **2021**, 477(2255). doi:10.1098/rspa.2021.0364
 
 **Jara, J.**, Delgado, F., Raimbault, B., Jolivet, R. \& Vigny, C. The 2007 Aysén earthquakes in southern Chile, a seismogeodetic approach. <i>To be submitted to GRL</i>
+
+**Jara, J.** & Cotton, F. <i>To be submitted to GJI</i>. A Bayesian Kinematic Source Model in the Frequency Domain: towards under- standing sources of high-frequency radiation.<br>
