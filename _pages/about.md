@@ -28,4 +28,4 @@ Research Interests
 News
 ======
 
-- <p align="justify">Nov 2022: New Postdoc Started! I was awarded a Marie Curie postdoctoral fellowship to work at the GFZ (Potsdam, Germany) under the mentoring of F. Cotton. For the next two years, I will work on understanding the spatio-temporal distribution of high-frequency radiation during earthquakes and its link with tectonics. Visit the dedicated section <a href="http://jjarag.github.io/erasmus/">ERASMUS-MSCA</a> to get more info about the project. Stay tuned; more news coming soon!</p>
+- <p align="justify">March 2023: Our session in the interplay between seismic and aseismic deformation on seismogenic faults has been accepted for the 2024 EGU General Assembly. See you in Vienna in April!</p>
