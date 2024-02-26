@@ -20,6 +20,6 @@ author_profile: true
 
 <h2><b><a href="https://jjarag.github.io/research/supershear">EQ rupture speed and high-frequency radiation</a></b></h2> 
 <div class="figure">
-<img src="/images/research/super.png" width="600">
+<img src="/images/research/supershear.png" width="600">
 <p class="caption">Supershear transition seen by aftershock distribution</p>
 </div>
