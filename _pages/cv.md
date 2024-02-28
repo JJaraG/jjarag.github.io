@@ -11,7 +11,7 @@ redirect_from:
 
 [Full CV Febraury 2024](/files/CV/CV_JorgeJara.pdf)
 
-[ORCID 0000-0002-7528-4437](https://orcid.org/0000-0003-3176-0689)
+[ORCID 0000-0003-3176-0689](https://orcid.org/0000-0003-3176-0689)
 
 Education
 ======
