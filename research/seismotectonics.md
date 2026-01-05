@@ -11,7 +11,7 @@ author_profile: true
 </p> <p align="justify"> One of my early research topics concerned sediment loading at the southern Chile trench. By combining seismic and bathymetric data, I modeled the flexural bending of the incoming Nazca plate and estimated its flexural rigidity. This work revealed two distinct segments, Maule and Chiloé, characterized by different thermal and rheological properties of the subducting plate. These results highlighted the role of sediments in controlling subduction channel thickness and suggested that they may influence the size and extent of large megathrust ruptures. This study was carried out during my bachelor’s and master’s theses and marked my first experience at the interface between geophysical observations and mechanical modeling. </p> 
 
 <div style="float:right; width:38%; margin:0 0 15px 20px; text-align:center;">
-  <img src="/images/research/seismotectonics.jpeg" style="width:100%; height:auto;">
+  <img src="/images/research/seismotectonics1.jpeg" style="width:100%; height:auto;">
   <p style="font-size:0.6em; color:#666; margin-top:6px; text-align:justify;">
     Figure 1. (a) Iquique EQ data (blue) and synthetic seismograms (red) with the kinematic slip model (b).
     (c) High-resolution topography and (d) free-air gravity anomaly.
@@ -27,9 +27,16 @@ I then focused on the northern Chile subduction zone, a region considered a matu
 <p align="justify"> The region was later struck by the M<sub>w</sub> 8.1 Iquique earthquake in 2014. I studied its rupture process, as well as that of its largest aftershock, using kinematic inversions in the frequency domain (Figure&nbsp;1). The resulting slip models show clear segmentation both along strike and along dip (Figure&nbsp;1). Along-strike segmentation appears to be associated with variations in lithology and fluid content within the continental wedge, whereas along-dip segmentation is linked to changes in slab dip and is accompanied by systematic variations in the frequency content of seismic radiation. </p> 
 <div style="clear:both;"></div>
 
+<div style="float:left; width:38%; margin:0 0 15px 20px; text-align:center;">
+  <img src="/images/research/seismotectonics2.png" style="width:100%; height:auto;">
+  <p style="font-size:0.6em; color:#666; margin-top:6px; text-align:justify;">
+    Figure 2 (a) Fault slip rate\cite{Jolivet23} and (b) slip of 2019 SSE\cite{Ozdemir25} in the NAF central section (Ismetpasa). Historical EQ extensions are denoted by green arrows (a), as well as regions with different aseismic slip behavior. Dark blue triangles show the location of the following cities: Gerede (Ge), Ismetpasa (Is), Cerkes (Ce), Bayramoren (Ba) and Ilgaz (IL).  Left bottom inset shows the displacement during the 2019 SSE captured by creepmeters and GNSS. (c) 2022-2024 EQ catalog from a local network, color-coded by depth and scaled by magnitude. Color scale shows fault slip rate from (a).
+  </p>
+</div>
 <p align="justify"> I have extended this perspective on fault segmentation to continental strike-slip systems, particularly the North Anatolian Fault. This fault hosts repeated large earthquakes and displays strong along-strike and along-dip variations in slip behavior. Geodetic observations reveal locked segments separated by zones of aseismic creep, likely controlled by fluid presence and lithological contrasts. These variations influence locking depth and rupture extent, emphasizing that segmentation is a fundamental property of fault zones across tectonic settings. </p> 
 
 <p align="justify"> Overall, my work shows that the traditional definition of seismic gaps, which focuses mainly on recurrence time and along-strike segmentation, is incomplete. Seismogenic zones are also segmented with depth, and this vertical structure plays a key role in controlling rupture dynamics and seismic hazard. Accounting for both along-strike and along-dip segmentation is therefore essential for a more realistic assessment of earthquake hazard and for understanding how tectonic systems evolve through the seismic cycle. </p>
+<div style="clear:both;"></div>
 
 
 ### **Relevant publications**
