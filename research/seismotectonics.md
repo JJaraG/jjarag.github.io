@@ -8,7 +8,7 @@ author_profile: true
 
 <p align="justify"> My research in seismotectonics focuses on understanding how earthquakes relate to tectonic structure, with the aim of better constraining past, present, and future seismic behavior. I approach this problem by combining multiple geophysical observations and modeling tools, including seismic reflection and refraction data, flexural models of the incoming plate, kinematic earthquake rupture modeling, gravimetry, and topographic analysis. This integrated approach allows me to investigate why earthquake ruptures stop, how fault systems are segmented, and how these features are expressed at the surface. </p> <p align="justify"> One of my early research topics concerned sediment loading at the southern Chile trench. By combining seismic and bathymetric data, I modeled the flexural bending of the incoming Nazca plate and estimated its flexural rigidity. This work revealed two distinct segments, Maule and Chiloé, characterized by different thermal and rheological properties of the subducting plate. These results highlighted the role of sediments in controlling subduction channel thickness and suggested that they may influence the size and extent of large megathrust ruptures. This study was carried out during my bachelor’s and master’s theses and marked my first experience at the interface between geophysical observations and mechanical modeling. </p> 
 
-<div style="float:right; width:45%; margin:0 0 15px 20px; text-align:center;">
+<div style="float:right; width:38%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/seismotectonics.jpeg" style="width:100%; height:auto;">
   <p style="font-size:0.8em; color:#666; margin-top:6px; text-align:justify;">
     Figure 1. (a) Iquique EQ data (blue) and synthetic seismograms (red) with the kinematic slip model (b).
@@ -28,13 +28,6 @@ I then focused on the northern Chile subduction zone, a region considered a matu
 <p align="justify"> I have extended this perspective on fault segmentation to continental strike-slip systems, particularly the North Anatolian Fault. This fault hosts repeated large earthquakes and displays strong along-strike and along-dip variations in slip behavior. Geodetic observations reveal locked segments separated by zones of aseismic creep, likely controlled by fluid presence and lithological contrasts. These variations influence locking depth and rupture extent, emphasizing that segmentation is a fundamental property of fault zones across tectonic settings. </p> 
 
 <p align="justify"> Overall, my work shows that the traditional definition of seismic gaps, which focuses mainly on recurrence time and along-strike segmentation, is incomplete. Seismogenic zones are also segmented with depth, and this vertical structure plays a key role in controlling rupture dynamics and seismic hazard. Accounting for both along-strike and along-dip segmentation is therefore essential for a more realistic assessment of earthquake hazard and for understanding how tectonic systems evolve through the seismic cycle. </p>
-
-<div class="figure">
-  <p align="center">
-<img src="/images/research/seismotectonics.jpeg" width="600">
-<p class="caption"><p align="justify">(a) Iquique EQ data (blue) and synthetic seismograms (red) along with its kinematic slip model (b). (c) High-resolution topography and (d) free-air gravity anomaly. Mainshock (green) and aftershock (pink) slip contours are plotted. Violet line represents the location of an abrupt change on dip angle of the slab</p></p>
-  </p>
-</div>
 
 
 ### **Relevant publications**
