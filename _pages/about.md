@@ -73,7 +73,7 @@ News
 </li>
 
 <li style="margin-bottom: 15px;">
-<p align="justify"><strong>May 2025:</strong> Our new article "Detecting Millimetric Slow Slip Events Along the North Anatolian Fault With GNSS" has been published in <em>Geophysical Research Letters</em>! This work was carried out by Alpay Özdemir during his Ph.D.—great job Alpay! Using GNSS time series analysis and creepmeter data, we detected a M<sub>W</sub> 4.8 shallow slow slip event along the central section of the North Anatolian Fault, revealing how steady creep and transient SSEs interact spatially and temporally. See <a href="/publications/">Publications section</a> for more info.</p>
+<p align="justify"><strong>March 2025:</strong> Our new article "Detecting Millimetric Slow Slip Events Along the North Anatolian Fault With GNSS" has been published in <em>Geophysical Research Letters</em>! This work was carried out by Alpay Özdemir during his Ph.D.—great job Alpay! Using GNSS time series analysis and creepmeter data, we detected a M<sub>W</sub> 4.8 shallow slow slip event along the central section of the North Anatolian Fault, revealing how steady creep and transient SSEs interact spatially and temporally. See <a href="/publications/">Publications section</a> for more info.</p>
 </li>
 
 </ul>
