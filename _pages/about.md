@@ -28,7 +28,7 @@ Research Interests
 News
 ======
 
-<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9;">
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 
