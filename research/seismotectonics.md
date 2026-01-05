@@ -10,7 +10,7 @@ author_profile: true
 
 <div style="float:right; width:38%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/seismotectonics.jpeg" style="width:100%; height:auto;">
-  <p style="font-size:0.8em; color:#666; margin-top:6px; text-align:justify;">
+  <p style="font-size:0.6em; color:#666; margin-top:6px; text-align:justify;">
     Figure 1. (a) Iquique EQ data (blue) and synthetic seismograms (red) with the kinematic slip model (b).
     (c) High-resolution topography and (d) free-air gravity anomaly.
     Mainshock (green) and aftershock (pink) slip contours are shown.
