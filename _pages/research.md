@@ -14,7 +14,7 @@ author_profile: true
       <a href="https://jjarag.github.io/research/seismotectonics">Seismotectonics</a>
     </h2>
     <img src="/images/research/seismotectonics_intro.png"
-         style="width:100%; height:260px; object-fit:contain; background:#f5f5f5;">
+         style="width:100%; height:260px; object-fit:contain; background:#ffffff;">
     <p class="caption" style="font-size:0.85em; color:#666; margin-top:6px;">
       Coastal scarp, northern Chile
     </p>
@@ -26,7 +26,7 @@ author_profile: true
       <a href="https://jjarag.github.io/research/aseismic">Aseismic slip across the EQ cycle</a>
     </h2>
     <img src="/images/research/cycle.png"
-         style="width:100%; height:260px; object-fit:contain; background:#f5f5f5;">
+         style="width:100%; height:260px; object-fit:contain; background:#ffffff;">
     <p class="caption" style="font-size:0.85em; color:#666; margin-top:6px;">
       Conceptual representation of the EQ cycle
     </p>
@@ -38,7 +38,7 @@ author_profile: true
       <a href="https://jjarag.github.io/research/supershear">EQ rupture speed and high-frequency radiation</a>
     </h2>
     <img src="/images/research/supershear.png"
-         style="width:100%; height:260px; object-fit:contain; background:#f5f5f5;">
+         style="width:100%; height:260px; object-fit:contain; background:#ffffff;">
     <p class="caption" style="font-size:0.85em; color:#666; margin-top:6px;">
       Supershear transition inferred from aftershock distribution
     </p>
@@ -50,7 +50,7 @@ author_profile: true
       <a href="https://jjarag.github.io/research/FOCUS4">Hydro-meteorological forcing and seismic hazard</a>
     </h2>
     <img src="/images/research/hydroeq.png"
-         style="width:100%; height:260px; object-fit:contain; background:#f5f5f5;">
+         style="width:100%; height:260px; object-fit:contain; background:#ffffff;">
     <p class="caption" style="font-size:0.85em; color:#666; margin-top:6px;">
       Environmental forcing of fault deformation
     </p>
