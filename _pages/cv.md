@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV Febraury 2024](/files/CV/CV_JorgeJara.pdf)
+[Full CV January 2026](/files/CV/CV_JorgeJara.pdf)
 
 [ORCID 0000-0003-3176-0689](https://orcid.org/0000-0003-3176-0689)
 
