@@ -6,7 +6,7 @@ author_profile: true
 permalink: /contact/
 
 ---
-Email: **jorge [at] gfz-potsdam [dot] de** , **jorge.jara.gps [at] gmail [dot] com** 
+Email: **jorge [at] gfz [dot] de** , **jorge.jara.gps [at] gmail [dot] com** 
 
 Seismic Hazard and Risk Dynamics Team
 
