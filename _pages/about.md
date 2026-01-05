@@ -56,14 +56,5 @@ News
 <p align="justify"><strong>August 2025:</strong> Our new article "Impact of geodetic information, subduction zone segmentation and slow-slip events in probabilistic seismic hazard: a case study for Costa Rica" has been published in <em>Geophysical Journal International</em>! This amazing work was carried out by Mario Arroyo-Solórzano during his Ph.D.—great job Mario! We propose a method to incorporate slow-slip events and geodetic data into probabilistic seismic hazard analysis, showing significant impacts on hazard estimates for Costa Rica's subduction zone. See <a href="/publications/">Publications section</a> for more info.</p>
 </li>
 
-
-<li style="margin-bottom: 10px;">
-<p align="justify"><strong>February 2024:</strong> Our session in the interplay between seismic and aseismic deformation on seismogenic faults has been accepted for the 2024 EGU General Assembly. See you in Vienna in April!</p>
-</li>
-
-<li style="margin-bottom: 10px;">
-<p align="justify"><strong>January 2024:</strong> Our session in the next ESC General Assembly has been accepted. Call for abstract is still open! See you in Corfu in September!</p>
-</li>
-
 </ul>
 </div>
