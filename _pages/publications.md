@@ -7,7 +7,8 @@ author_profile: true
 <p class="text-justify"> Most of the articles are already free or in a preprint version. If you need a specific one, do not hesitate to contact me.</p>
 
 **Submitted Articles and Work in Progress**<br>
-
+[- Metamorphic dehydration reactions trigger slow slip events in subduction zones](https://doi.org/10.22541/essoar.176337015.59445929/v1)<br>
+**Jara, J.**, Soret, M., Jolivet, R., Cubas, N., Maksymowicz, A. & Cotton, F. <i>ESSOAr</i>. **2025**, preprint. doi:10.22541/essoar.176337015.59445929/v1. [PDF](https://github.com/JJaraG/jjarag.github.io/master/files/articles/Jara26.pdf)
 
 **Published**<br>
 
