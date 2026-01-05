@@ -1,16 +1,18 @@
 ---
 title: ""
-permalink: /erasmus/
+permalink: /seisclim/
 author_profile: true
 ---
 
-ERASMUS - MSCA: "Earthquake Energy Radiaton Across Spectrum: a multidisciplinary approach"
+SEISCLIM - "Seismoctectonics and climate: challenges bridging scales"
 ======
 
-<img style="float: center;" src="/images/research/abstract_msca.jpg">
+<img style="float: center;" src="/images/research/hydroeq.jpg">
 
-<p align="justify"> In the summer of 2022, I was awarded a Marie Sklodowska-Curie Action Postdoctoral Fellowship (HORIZON-MSCA-2021-PF-01, 101066069, ERASMUS). This project aims to investigate the location of high-frequency (HF) sources, finding out their origins and relationship with tectonics, employing state of the art techniques. The fellowshipis hosted by the German Research Centre for Geosciences in Potsdam, Germany, mentored by Prof. Dr.
-Fabrice Cotton.</p> 
+<p align="justify">
+In summer 2025, I was awarded a grant from the <a href="https://www.volkswagenstiftung.de/en" target="_blank">Volkswagen Foundation</a> through its <a href="https://www.volkswagenstiftung.de/en/funding/funding-offer/pioneering-research-exploring-unknown-unknown" target="_blank">Pioneering Research – Exploring the Unknown Unknown</a> program at <a href="https://www.gfz.de/en/" target="_blank">GFZ Potsdam</a>. This project aims to understand how climate change influences seismic hazard by linking hydro-meteorological processes, fault mechanics, and time-dependent hazard assessment. Ph.D. and postdoctoral positions will open soon—stay tuned.
+</p>
+
 
 <p align="justify"> I will provide updates and news about the project in this section! Stay tuned! More information is coming soon!
 </p> 
