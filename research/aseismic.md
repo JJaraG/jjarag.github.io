@@ -36,12 +36,19 @@ This question motivated the development and application of dedicated methods to 
 <p align="justify">
 Taken together, these results demonstrate that the apparent quiescence of the interseismic phase is often misleading. Aseismic slip is widespread, episodic, and plays a fundamental role throughout the earthquake cycle. Properly accounting for these processes is essential for constraining fault mechanics and for developing numerical models that realistically represent deformation across the full seismic cycle.
 </p>
+<div style="clear:both;"></div>
 
 ## **Underlying physics of aseismic slip**
-
+<div style="float:right; width:50%; margin:0 0 15px 20px; text-align:center;">
+  <img src="/images/research/aseismic2.png" style="width:100%; height:auto;">
+  <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
+    Figure 2. (a) Pressure–temperature (P–T) conditions at the locus of SSEs across nine subduction zones. (b) Boundaries of major mineral dehydration reactions and consequent release of mineral-bound water (wt.$\%$) from a representative metamorphic MORB.
+  </p>
+</div>
 <p align="justify"> While the presence of aseismic slip is now well established, the physical mechanisms controlling it remain debated. My recent work has focused on evaluating three main candidates: heterogeneities in fault constitutive properties, stress interactions induced by geometrical complexities such as damage zones, and the role of fluids. By combining global slow slip event catalogs, thermal modeling, petrological constraints, and machine learning approaches, we find growing evidence that fluids released by metamorphic dehydration reactions play a key role in promoting aseismic slip by increasing pore pressure and reducing effective normal stress. 
 
 </p> <p align="justify"> These results suggest that aseismic slip is not an isolated phenomenon, but rather an intrinsic component of fault behavior, tightly linked to slab geometry, thermal structure, and fluid circulation. Understanding these interactions is essential for bridging short-term fault processes with long-term tectonic evolution and for improving time-dependent assessments of seismic hazard. </p>
+<div style="clear:both;"></div>
 
 ### **Relevant publications**
 
