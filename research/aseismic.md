@@ -19,7 +19,7 @@ author_profile: true
 <p align="justify"> On a broader scale, three major earthquakes occurred in the Chilean subduction zone between 2010 and 2015. Analysis of seismic catalogs indicates that the M<sub>w</sub> 8.4 Illapel earthquake may have been triggered by the earlier Maule and Iquique events through a deep transient slip propagating within the slab. Together, these results point to a central role of the slab in earthquake triggering and preparation, with slip rates at depth evolving over time and redistributing deformation over large spatial and temporal scales not captured by classical earthquake cycle models. </p>
 
 ## **The false quiescence of the Interseismic Phase**
-<div style="float:right; width:38%; margin:0 0 15px 20px; text-align:center;">
+<div style="float:right; width:45%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/aseismic1.png" style="width:100%; height:auto;">
   <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
     Figure 1. Left: Aseismic slip events in the southern Peru–northern Chile subduction zone. Right: Aseismic slip northwestern Colombia.
