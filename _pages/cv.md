@@ -25,7 +25,13 @@ Education
 Academic Appointments
 ======
 
-- 2022/11 - 2024/11. Seismic Hazard and Risk Dynamics Team. GFZ, Potsdam, Germany.<br>
+- 2025/10 - 2030/09. Seismic Hazard and Risk Dynamics Team. GFZ, Potsdam, Germany.<br>
+Group Leader and Principal Investigator of SEISCLIM project
+
+- 2025/01 - 2025/09. Geomechanics and Scientific Drilling Team. GFZ, Potsdam, Germany.<br>
+Researcher.
+
+- 2022/11 - 2024/12. Seismic Hazard and Risk Dynamics Team. GFZ, Potsdam, Germany.<br>
 MSCA Postdoctoral Fellow.
 
 - 2018/04 - 2022/10. Laboratoire de Géologie. École Normale Supérieure, Paris, France.<br>
@@ -39,6 +45,7 @@ Research assistant.
  
 Grants and Fellowships
 ======
-- 2022 - 2024. POF-V GFZ Field Mission Program. 
+- 2025 - 2030. Pioneering Research - Exploring the Unknown Unknwon. Volkswagen Foundation.
+- 2022 - 2026. POF-V GFZ Field Mission Program. 
 - 2022 - 2024. Marie Curie Fellowship, EU Comission. 
 - 2013 - 2018. Becas Chile, four year fellowship for international graduate studies
