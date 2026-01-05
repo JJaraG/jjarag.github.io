@@ -32,7 +32,7 @@ author_profile: true
     </p>
   </div>
 
-<!-- Supershear -->
+<!-- Hazard -->
   <div>
     <h2>
       <a href="https://jjarag.github.io/research/hazard">Seismic Hazard</a>
@@ -47,7 +47,7 @@ author_profile: true
 <!-- Hydro-Meteorological Processes -->
   <div>
     <h2>
-      <a href="https://jjarag.github.io/research/FOCUS4">Hydro-meteorological forcing and seismic hazard</a>
+      <a href="https://jjarag.github.io/research/hydro">Hydro-meteorological forcing and seismic hazard</a>
     </h2>
     <img src="/images/research/hydroeq.png"
          style="width:100%; height:260px; object-fit:contain; background:#ffffff;">
