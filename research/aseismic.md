@@ -20,7 +20,7 @@ author_profile: true
 
 ## **The false quiescence of the Interseismic Phase**
 
-<div style="float:right; width:50%; margin:0 0 15px 20px; text-align:center;">
+<div style="float:right; width:55%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/aseismic1.png"
        style="display:block; margin:0 auto; width:100%; height:auto;">
   <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
@@ -59,7 +59,7 @@ Taken together, these results demonstrate that the apparent quiescence of the in
 </p> <p align="justify"> These results suggest that aseismic slip is not an isolated phenomenon, but rather an intrinsic component of fault behavior, tightly linked to slab geometry, thermal structure, and fluid circulation. Understanding these interactions is essential for bridging short-term fault processes with long-term tectonic evolution and for improving time-dependent assessments of seismic hazard. </p>
 <div style="clear:both;"></div>
 
-### **Relevant publications**
+## **Relevant publications**
 
 [An 8 month slow slip event triggers progressive nucleation of the 2014 Chile megathrust](https://doi.org/10.1002/2017GL073023)<br>
 Socquet, A., Valdes, J. P., **Jara, J.**, Cotton, F., Walpersdorf, A., Cotte, N., Specht, S., Ortega-Culaciati, F., Carrizo, D., & Norabuena, E. <i>GRL</i>, **2017** 44(9), 4046–4053. doi:10.1002/2017GL073023.
