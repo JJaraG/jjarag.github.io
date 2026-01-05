@@ -22,14 +22,13 @@ One of my early research topics concerned sediment loading at the southern Chile
   </p>
 </div>
 
-<p align="justify">
+<<p align="justify">
 I then focused on the northern Chile subduction zone, a region considered a mature seismic gap since the 1877 earthquake. In collaboration with colleagues, we examined why only a small fraction of the accumulated seismic moment had been released despite the occurrence of moderate events such as the 2007 M<sub>w</sub> 7.7 Tocopilla earthquake. By jointly modeling seismic data and relocated aftershocks, we identified a pronounced change in slab geometry, with the dip increasing from about 10° to 22° at around 22°S (Figure&nbsp;1). We interpret the prominent coastal scarp in this region as the surface expression of this slab-dip change. This geometric transition acts as a barrier to rupture propagation toward the trench, indicating that the megathrust is segmented not only along strike, but also along dip.
 </p>
 
 <p align="justify">
 The region was later struck by the M<sub>w</sub> 8.1 Iquique earthquake in 2014. Working within the same collaborative framework, we studied its rupture process, as well as that of its largest aftershock, using kinematic inversions in the frequency domain (Figure&nbsp;1). The resulting slip models show clear segmentation both along strike and along dip (Figure&nbsp;1). Along-strike segmentation appears to be associated with variations in lithology and fluid content within the continental wedge, whereas along-dip segmentation is linked to changes in slab dip and is accompanied by systematic variations in the frequency content of seismic radiation.
 </p>
-
 <div style="clear:both;"></div>
 
 <div style="float:left; width:38%; margin:0 30px 20px 0; text-align:center;">
