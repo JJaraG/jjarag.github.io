@@ -28,7 +28,7 @@ Research Interests
 News
 ======
 
-<div style="height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9;">
+<div style="height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; font-size: 10px;">
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 
@@ -46,10 +46,3 @@ News
 
 </ul>
 </div>
-
-<!-- News
-======
-
-- <p align="justify">February 2024: Our session in the interplay between seismic and aseismic deformation on seismogenic faults has been accepted for the 2024 EGU General Assembly. See you in Vienna in April!</p>
-
-- <p align="justify">January 2024: Our session in the next ESC General Assembly has been accepted. Call for abstract is still open!. See you in Corfu in September!</p> -->
