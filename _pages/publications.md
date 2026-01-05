@@ -10,6 +10,13 @@ author_profile: true
 
 
 **Published**<br>
+
+[20. Impact of geodetic information, subduction zone segmentation and slow-slip events in probabilistic seismic hazard: a case study for Costa Rica](https://doi.org/10.1093/gji/ggaf204)<br>
+Arroyo-Solórzano, M., **Jara, J.**, Weatherill, G., González, A., Hidalgo-Leiva, D. A. & Cotton, F. <i>GJI</i>. **2025**, 242, 1–33. doi:10.1093/gji/ggaf204. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/Mario25.pdf)
+
+[19. Detecting millimetric slow slip events along the North Anatolian Fault with GNSS](https://doi.org/10.1029/2024GL111428)<br>
+Özdemir, A., **Jara, J.**, Doğan, U., Jolivet, R., Çakir, Z., Nocquet, J.-M., Ergintav, S. & Bilham, R. <i>GRL</i>. **2025**, 52, e2024GL111428. doi:10.1029/2024GL111428. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/Ozdemir25.pdf)
+
 [18. Detection of slow slip events along the southern Peru - northern Chile subduction zone](https://doi.org/10.26443/seismica.v3i1.980)<br>
 **Jara, J.**, Jolivet, R., Socquet, A., Comte, D. & Norabuena, E. <i>Seismica</i>. **2024**, 3(1), 1-21. doi:10.26443/seismica.v3i1.980. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/Jara24.pdf)
 
