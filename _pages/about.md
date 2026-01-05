@@ -21,9 +21,13 @@ Research Interests
 
 <p align="justify">My research focuses on understanding Earth's deformation at different spatio-temporal scales and its relationship to earthquakes. I am fascinated by how Space Geodesy (especially GNSS) and Seismology can be combined to understand better why and where earthquakes (will) occur. Additionally, I investigate the connections between hydro-meteorological processes and crustal deformation. I tackle such exciting problems along the Chilean subduction zone and the North Anatolian Fault.</p>
 
-<img style="float: center;" src="/images/research/portrait_webpage.jpg">
-
-(Left) GNSS station at the Chungara Lake, Northern Chile in 2014. (Right) Me, with one foot on the North Anatolian fault in Ismetpasa, Turkey in 2019.
+<div style="text-align:center; margin:20px 0;">
+  <img src="/images/research/portrait_webpage.jpg" style="max-width:100%; height:auto;">
+  <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
+    (Left) GNSS station at the Chungará Lake, northern Chile, 2014.
+    (Right) Me, with one foot on the North Anatolian Fault in Ismetpaşa, Turkey, 2019.
+  </p>
+</div>
 
 News
 ======
@@ -33,7 +37,7 @@ News
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 
 <li style="margin-bottom: 15px;">
-<p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;"><strong>December 2025:</strong> Our new article "Atmospheric Water Vapor and Precipitation Coupling in Southwestern South America" has been published in <em>Geophysical Research Letters</em>! We analyzed 15–27 years of GNSS-derived precipitable water vapor (PWV) across Chile, revealing how PWV–precipitation coupling varies with latitude and precipitation regime. See <a href="/publications/">Publications section</a> for more info.</p>
+<p align="justify"><strong>December 2025:</strong> Our new article "Atmospheric Water Vapor and Precipitation Coupling in Southwestern South America" has been published in <em>Geophysical Research Letters</em>! We analyzed 15–27 years of GNSS-derived precipitable water vapor (PWV) across Chile, revealing how PWV–precipitation coupling varies with latitude and precipitation regime. See <a href="/publications/">Publications section</a> for more info.</p>
 </li>
 
 <li style="margin-bottom: 15px;">
