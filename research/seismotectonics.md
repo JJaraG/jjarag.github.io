@@ -47,11 +47,9 @@ I have extended this perspective on fault segmentation to continental strike-sli
 <p align="justify">
 Overall, this body of work shows that the traditional definition of seismic gaps, which focuses mainly on recurrence time and along-strike segmentation, is incomplete. Seismogenic zones are also segmented with depth, and this vertical structure plays a key role in controlling rupture dynamics and seismic hazard. Accounting for both along-strike and along-dip segmentation is therefore essential for a more realistic assessment of earthquake hazard and for understanding how tectonic systems evolve through the seismic cycle.
 </p>
-
 <div style="clear:both;"></div>
 
-
-### **Relevant publications**
+## **Relevant publications**
 
 [Abrupt change in the dip of the subducting plate beneath north Chile.](https://doi.org/10.1038/ngeo1447)<br>
 Contreras-Reyes, E., **Jara, J.**, Grevemeyer, I., Ruiz, S., & Carrizo, D. <i>Nat. Geosci.</i>. **2012**, 5(5), 342–345. https://doi.org/10.1038/ngeo1447.
