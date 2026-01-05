@@ -8,7 +8,7 @@ author_profile: true
 
 <p align="justify"> Earthquake damage is largely controlled by high-frequency ground shaking generated during rupture propagation. These high frequencies are closely linked to variations in rupture speed, which in most earthquakes remains bounded by shear or Rayleigh wave velocities. In some cases, however, ruptures can locally transition to higher, so-called supershear speeds. Understanding where and why these transitions occur is therefore essential for interpreting strong ground motion and earthquake destructiveness. </p> 
 
-<div style="float:right; width:50%; margin:15px 10px 15px 10px; text-align:center;">
+<div style="float:right; width:50%; margin:20px 10px 15px 10px; text-align:center;">
   <img src="/images/research/supershear.png"
        style="display:block; margin:0 auto; width:100%; height:auto;">
   <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
