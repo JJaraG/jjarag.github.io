@@ -33,19 +33,15 @@ News
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 
 <li style="margin-bottom: 15px;">
+<p align="justify"><strong>December 2025:</strong> Our new paper "Progressive eastward rupture of the Main Marmara fault toward Istanbul" has been published in <em>Science</em>! We analyzed the 2025 M<sub>W</sub> 6.2 Marmara earthquake and show a decade-long eastward migration of M>5 events along the Main Marmara Fault toward the locked segments near Istanbul. See <a href="/publications/">Publications section</a> for more info.</p>
+</li>
+
+<li style="margin-bottom: 10px;">
 <p align="justify"><strong>February 2024:</strong> Our session in the interplay between seismic and aseismic deformation on seismogenic faults has been accepted for the 2024 EGU General Assembly. See you in Vienna in April!</p>
 </li>
 
-<li style="margin-bottom: 15px;">
+<li style="margin-bottom: 10px;">
 <p align="justify"><strong>January 2024:</strong> Our session in the next ESC General Assembly has been accepted. Call for abstract is still open! See you in Corfu in September!</p>
-</li>
-
-<li style="margin-bottom: 15px;">
-<p align="justify"><strong>December 2023:</strong> Add more news items here...</p>
-</li>
-
-<li style="margin-bottom: 15px;">
-<p align="justify"><strong>November 2023:</strong> And another one here...</p>
 </li>
 
 </ul>
