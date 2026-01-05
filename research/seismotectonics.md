@@ -11,7 +11,7 @@ author_profile: true
 <div style="float:right; width:45%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/seismotectonics.jpeg" style="width:100%; height:auto;">
   <p style="font-size:0.8em; color:#666; margin-top:6px; text-align:justify;">
-    (a) Iquique EQ data (blue) and synthetic seismograms (red) with the kinematic slip model (b).
+    Figure 1. (a) Iquique EQ data (blue) and synthetic seismograms (red) with the kinematic slip model (b).
     (c) High-resolution topography and (d) free-air gravity anomaly.
     Mainshock (green) and aftershock (pink) slip contours are shown.
     The violet line marks the location of an abrupt change in slab dip.
@@ -19,10 +19,10 @@ author_profile: true
 </div>
 
 <p align="justify">
-I then focused on the northern Chile subduction zone, a region considered a mature seismic gap since the 1877 earthquake. Despite the occurrence of moderate events such as the 2007 $M_w$ 7.7 Tocopilla earthquake, only a small fraction of the accumulated seismic moment had been released. By modeling seismic data and relocated aftershocks, I identified a pronounced change in slab geometry, with the dip increasing from about 10° to 22° at around 22°S. I interpret the prominent coastal scarp in this region as the surface expression of this slab-dip change. This geometric transition acts as a barrier to rupture propagation toward the trench, indicating that the megathrust is segmented not only along strike, but also along dip.
+I then focused on the northern Chile subduction zone, a region considered a mature seismic gap since the 1877 earthquake. Despite the occurrence of moderate events such as the 2007 $M_w$ 7.7 Tocopilla earthquake, only a small fraction of the accumulated seismic moment had been released. By modeling seismic data and relocated aftershocks, I identified a pronounced change in slab geometry, with the dip increasing from about 10° to 22° at around 22°S (Figure&nbsp;1). I interpret the prominent coastal scarp in this region as the surface expression of this slab-dip change. This geometric transition acts as a barrier to rupture propagation toward the trench, indicating that the megathrust is segmented not only along strike, but also along dip.
 </p>
-
 <div style="clear:both;"></div>
+
 <p align="justify"> The region was later struck by the $M_w$ 8.1 Iquique earthquake in 2014. I studied its rupture process, as well as that of its largest aftershock, using kinematic inversions in the frequency domain. The resulting slip models show clear segmentation both along strike and along dip. Along-strike segmentation appears to be associated with variations in lithology and fluid content within the continental wedge, whereas along-dip segmentation is linked to changes in slab dip and is accompanied by systematic variations in the frequency content of seismic radiation. </p> 
 
 <p align="justify"> I have extended this perspective on fault segmentation to continental strike-slip systems, particularly the North Anatolian Fault. This fault hosts repeated large earthquakes and displays strong along-strike and along-dip variations in slip behavior. Geodetic observations reveal locked segments separated by zones of aseismic creep, likely controlled by fluid presence and lithological contrasts. These variations influence locking depth and rupture extent, emphasizing that segmentation is a fundamental property of fault zones across tectonic settings. </p> 
