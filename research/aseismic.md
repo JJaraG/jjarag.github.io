@@ -19,12 +19,16 @@ author_profile: true
 <p align="justify"> On a broader scale, three major earthquakes occurred in the Chilean subduction zone between 2010 and 2015. Analysis of seismic catalogs indicates that the M<sub>w</sub> 8.4 Illapel earthquake may have been triggered by the earlier Maule and Iquique events through a deep transient slip propagating within the slab. Together, these results point to a central role of the slab in earthquake triggering and preparation, with slip rates at depth evolving over time and redistributing deformation over large spatial and temporal scales not captured by classical earthquake cycle models. </p>
 
 ## **The false quiescence of the Interseismic Phase**
+
 <div style="float:right; width:50%; margin:0 0 15px 20px; text-align:center;">
-  <img src="/images/research/aseismic1.png" style="width:100%; height:auto;">
+  <img src="/images/research/aseismic1.png"
+       style="display:block; margin:0 auto; width:100%; height:auto;">
   <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
-    Figure 1. Left: Aseismic slip events in the southern Peru–northern Chile subduction zone. Right: Aseismic slip northwestern Colombia.
+    Figure 1. Left: Aseismic slip events in the southern Peru–northern Chile subduction zone.
+    Right: Aseismic slip in northwestern Colombia.
   </p>
 </div>
+
 <p align="justify">
 Interseismic coupling models are commonly used to infer fault locking between large earthquakes. Locked regions generally correlate with future rupture areas, whereas partially locked zones are often interpreted as creeping aseismically, either steadily or episodically. However, whether aseismic slip occurs as a steady process or in transient bursts remains an open question, with major implications for our understanding of fault mechanics.
 </p>
@@ -39,12 +43,17 @@ Taken together, these results demonstrate that the apparent quiescence of the in
 <div style="clear:both;"></div>
 
 ## **Underlying physics of aseismic slip**
+
 <div style="float:right; width:50%; margin:0 0 15px 20px; text-align:center;">
-  <img src="/images/research/aseismic2.png" style="width:100%; height:auto;">
+  <img src="/images/research/aseismic2.png"
+       style="display:block; margin:0 auto; width:100%; height:auto;">
   <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
-    Figure 2. (a) Pressure–temperature (P–T) conditions at the locus of SSEs across nine subduction zones. (b) Boundaries of major mineral dehydration reactions and consequent release of mineral-bound water (wt.$\%$) from a representative metamorphic MORB.
+    Figure 2. (a) Pressure–temperature (P–T) conditions at the locus of SSEs across nine subduction zones.
+    (b) Boundaries of major mineral dehydration reactions and consequent release of mineral-bound water (wt.%)
+    from a representative metamorphic MORB.
   </p>
 </div>
+
 <p align="justify"> While the presence of aseismic slip is now well established, the physical mechanisms controlling it remain debated. My recent work has focused on evaluating three main candidates: heterogeneities in fault constitutive properties, stress interactions induced by geometrical complexities such as damage zones, and the role of fluids. By combining global slow slip event catalogs, thermal modeling, petrological constraints, and machine learning approaches, we find growing evidence that fluids released by metamorphic dehydration reactions play a key role in promoting aseismic slip by increasing pore pressure and reducing effective normal stress. 
 
 </p> <p align="justify"> These results suggest that aseismic slip is not an isolated phenomenon, but rather an intrinsic component of fault behavior, tightly linked to slab geometry, thermal structure, and fluid circulation. Understanding these interactions is essential for bridging short-term fault processes with long-term tectonic evolution and for improving time-dependent assessments of seismic hazard. </p>
