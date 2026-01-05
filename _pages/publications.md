@@ -11,6 +11,12 @@ author_profile: true
 
 **Published**<br>
 
+[22. Atmospheric water vapor and precipitation coupling in southwestern South America](https://doi.org/10.1029/2025GL119095)<br>
+Valenzuela, R., **Jara, J.** & Martinez-Villalobos, C. <i>GRL</i>. **2025**, 52, e2025GL119095. doi:10.1029/2025GL119095. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/Valenzuela25.pdf)
+
+[21. Progressive eastward rupture of the Main Marmara fault toward Istanbul](https://doi.org/10.1126/science.adz0072)<br>
+Martínez-Garzón, P., Chen, X., Becker, D., Núñez-Jara, S., Kartal, R. F., Türker, E., Dresen, G., Ben-Zion, Y., **Jara, J.**, Cotton, F., Kadirioglu, F. T., Kılıç, T. & Bohnhoff, M. <i>Science</i>. **2025**, online ahead of print. doi:10.1126/science.adz0072. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/MG25.pdf)
+
 [20. Impact of geodetic information, subduction zone segmentation and slow-slip events in probabilistic seismic hazard: a case study for Costa Rica](https://doi.org/10.1093/gji/ggaf204)<br>
 Arroyo-Solórzano, M., **Jara, J.**, Weatherill, G., González, A., Hidalgo-Leiva, D. A. & Cotton, F. <i>GJI</i>. **2025**, 242, 1–33. doi:10.1093/gji/ggaf204. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/Mario25.pdf)
 
