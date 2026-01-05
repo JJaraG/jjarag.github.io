@@ -28,6 +28,32 @@ Research Interests
 News
 ======
 
+<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9;">
+
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+
+<li style="margin-bottom: 15px;">
+<p align="justify"><strong>February 2024:</strong> Our session in the interplay between seismic and aseismic deformation on seismogenic faults has been accepted for the 2024 EGU General Assembly. See you in Vienna in April!</p>
+</li>
+
+<li style="margin-bottom: 15px;">
+<p align="justify"><strong>January 2024:</strong> Our session in the next ESC General Assembly has been accepted. Call for abstract is still open! See you in Corfu in September!</p>
+</li>
+
+<li style="margin-bottom: 15px;">
+<p align="justify"><strong>December 2023:</strong> Add more news items here...</p>
+</li>
+
+<li style="margin-bottom: 15px;">
+<p align="justify"><strong>November 2023:</strong> And another one here...</p>
+</li>
+
+</ul>
+</div>
+
+<!-- News
+======
+
 - <p align="justify">February 2024: Our session in the interplay between seismic and aseismic deformation on seismogenic faults has been accepted for the 2024 EGU General Assembly. See you in Vienna in April!</p>
 
-- <p align="justify">January 2024: Our session in the next ESC General Assembly has been accepted. Call for abstract is still open!. See you in Corfu in September!</p>
+- <p align="justify">January 2024: Our session in the next ESC General Assembly has been accepted. Call for abstract is still open!. See you in Corfu in September!</p> -->
