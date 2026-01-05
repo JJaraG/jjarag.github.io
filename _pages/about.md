@@ -61,7 +61,9 @@ News
 </li>
 
 <li style="margin-bottom: 15px;">
-<p align="justify"><strong>October 2025:</strong> The SEISCLIM project has officially started! I have been awarded a grant from the <a href="https://www.volkswagenstiftung.de/en" target="_blank">Volkswagen Foundation</a> through their <a href="https://www.volkswagenstiftung.de/en/funding/funding-offer/pioneering-research-exploring-unknown-unknown" target="_blank">Pioneering Research</a> program at <a href="https://www.gfz.de/en/" target="_blank">GFZ Potsdam</a>. This project aims to understand the impact of climate change on seismic hazard. Ph.D. and postdoctoral positions will be opening soon—stay tuned!</p>
+<p align="justify">
+<strong>October 2025:</strong> The <a href="https://jjarag.github.io/seisclim/" target="_blank">SEISCLIM</a> project has officially started. I have been awarded a grant from the <a href="https://www.volkswagenstiftung.de/en" target="_blank">Volkswagen Foundation</a> through its <a href="https://www.volkswagenstiftung.de/en/funding/funding-offer/pioneering-research-exploring-unknown-unknown" target="_blank">Pioneering Research</a> program at <a href="https://www.gfz.de/en/" target="_blank">GFZ Potsdam</a>. This project aims to understand the impact of climate change on seismic hazard. Ph.D. and postdoctoral positions will open soon.
+</p>
 </li>
 
 <li style="margin-bottom: 15px;">
