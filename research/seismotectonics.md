@@ -7,6 +7,7 @@ author_profile: true
 ## **Subduction zone segmentation and EQs**
 
 <p align="justify"> My research in seismotectonics focuses on understanding how earthquakes relate to tectonic structure, with the aim of better constraining past, present, and future seismic behavior. I approach this problem by combining multiple geophysical observations and modeling tools, including seismic reflection and refraction data, flexural models of the incoming plate, kinematic earthquake rupture modeling, gravimetry, and topographic analysis. This integrated approach allows me to investigate why earthquake ruptures stop, how fault systems are segmented, and how these features are expressed at the surface. 
+</p> 
 
 <p align="justify">
 One of my early research topics concerned sediment loading at the southern Chile trench. Working in close collaboration with colleagues, we combined seismic and bathymetric data to model the flexural bending of the incoming Nazca plate and to estimate its flexural rigidity. This work revealed two distinct segments, Maule and Chiloé, characterized by different thermal and rheological properties of the subducting plate. These results highlighted the role of sediments in controlling subduction channel thickness and suggested that they may influence the size and extent of large megathrust ruptures. This study was carried out during my bachelor’s and master’s theses and marked my first experience working at the interface between geophysical observations and mechanical modeling within a collaborative research framework.
