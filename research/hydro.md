@@ -27,3 +27,17 @@ author_profile: true
 
 <p align="justify"> Together, these observations and modeling efforts motivate a new research axis focused on integrating hydro-meteorological forcing into earthquake cycle models and seismic hazard assessment. In this context, I have recently been awarded a five-year grant from the Volkswagen Foundation to establish my own research group at GFZ. The project aims to quantify how climate-driven surface processes influence seismic and aseismic deformation, and how these effects propagate into time-dependent seismic hazard. By combining dense geodetic and seismic observations, mechanical modeling, and probabilistic hazard frameworks, this research seeks to better capture the evolving nature of seismic hazard in a restless Earth increasingly impacted by climate change. </p>
 <div style="clear:both;"></div>
+
+## **Relevant publications**
+
+[Rain and small earthquakes maintain a slow-moving landslide in a persistent critical state](https://doi.org/10.1038/s41467-020-14445-3)<br>
+Bontemps, N., Lacroix, P., Larose, E., **Jara, J.**, & Taipe, E. <i>Nat. Commun</i>. **2020**, 11(1), 1–10. doi:10.1038/s41467-020-14445-3. 
+
+[Daily to centennial behavior of aseismic slip along the central section of the North Anatolian Fault](https://doi.org/10.1029/2022JB026018)<br> 
+Jolivet, R., **Jara, J.**, Dalaison, M., Rouet-Leduc, B., Özdemir, A., Doğan, U., Çakir, Z. & Ergintav, S. <i>JGR</i>. **2023**, 128(7), 1-35. doi:10.1029/2022JB026018. 
+
+[Detecting millimetric slow slip events along the North Anatolian Fault with GNSS](https://doi.org/10.1029/2024GL111428)<br>
+Özdemir, A., **Jara, J.**, Doğan, U., Jolivet, R., Çakir, Z., Nocquet, J.-M., Ergintav, S. & Bilham, R. <i>GRL</i>. **2025**, 52, e2024GL111428. doi:10.1029/2024GL111428. 
+
+[Atmospheric water vapor and precipitation coupling in southwestern South America](https://doi.org/10.1029/2025GL119095)<br>
+Valenzuela, R., **Jara, J.** & Martinez-Villalobos, C. <i>GRL</i>. **2025**, 52, e2025GL119095. doi:10.1029/2025GL119095.
