@@ -60,5 +60,11 @@ News
 <p align="justify"><strong>August 2025:</strong> Our new article "Impact of geodetic information, subduction zone segmentation and slow-slip events in probabilistic seismic hazard: a case study for Costa Rica" has been published in <em>Geophysical Journal International</em>! This amazing work was carried out by Mario Arroyo-Solórzano during his Ph.D.—great job Mario! We propose a method to incorporate slow-slip events and geodetic data into probabilistic seismic hazard analysis, showing significant impacts on hazard estimates for Costa Rica's subduction zone. See <a href="/publications/">Publications section</a> for more info.</p>
 </li>
 
+<li style="margin-bottom: 15px;">
+<p align="justify"><strong>July 2025:</strong> I gave an invited talk at the <a href="https://frensz-2025.sciencesconf.org" target="_blank">FRENSZ 2025</a> workshop in Sampeyre (Italy), presenting our work on metamorphic dehydration reactions and their role in triggering slow slip events in subduction zones.</p>
+</li>
+
+
+
 </ul>
 </div>
