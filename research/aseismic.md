@@ -19,6 +19,9 @@ author_profile: true
 <p align="justify"> On a broader scale, three major earthquakes occurred in the Chilean subduction zone between 2010 and 2015. Analysis of seismic catalogs indicates that the M<sub>w</sub> 8.4 Illapel earthquake may have been triggered by the earlier Maule and Iquique events through a deep transient slip propagating within the slab. Together, these results point to a central role of the slab in earthquake triggering and preparation, with slip rates at depth evolving over time and redistributing deformation over large spatial and temporal scales not captured by classical earthquake cycle models. </p>
 
 ## **The false quiescence of the Interseismic Phase**
+<p align="justify">
+Interseismic coupling models are commonly used to infer fault locking between large earthquakes. Locked regions generally correlate with future rupture areas, whereas partially locked zones are often interpreted as creeping aseismically, either steadily or episodically. However, whether aseismic slip occurs as a steady process or in transient bursts remains an open question, with major implications for our understanding of fault mechanics.
+</p>
 
 <div style="float:right; width:55%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/aseismic1.png"
@@ -28,10 +31,6 @@ author_profile: true
     Right: Aseismic slip in northwestern Colombia.
   </p>
 </div>
-
-<p align="justify">
-Interseismic coupling models are commonly used to infer fault locking between large earthquakes. Locked regions generally correlate with future rupture areas, whereas partially locked zones are often interpreted as creeping aseismically, either steadily or episodically. However, whether aseismic slip occurs as a steady process or in transient bursts remains an open question, with major implications for our understanding of fault mechanics.
-</p>
 
 <p align="justify">
 This question motivated the development and application of dedicated methods to detect aseismic slip events. I have applied geodetic template matching (GTM) and multivariate singular spectrum analysis (MSSA) to long GNSS time series in the southern Peru–northern Chile subduction zone, along the central section of the North Anatolian Fault, and more recently in northern Colombia. In all three regions, these analyses reveal frequent bursts of aseismic slip that would remain undetected without careful data processing. In southern Peru–northern Chile, we identified more than twenty aseismic events over 14 years, primarily occurring in transitional coupling zones and at depths consistent with fluid-rich environments. Along the North Anatolian Fault, GNSS and creepmeter data reveal a clear contrast between steady creep and episodic slip behavior, while in northern Colombia similar transient signals point to previously unrecognized aseismic slip activity (Figure&nbsp;2).
