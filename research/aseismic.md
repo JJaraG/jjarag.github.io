@@ -19,18 +19,23 @@ author_profile: true
 <p align="justify"> On a broader scale, three major earthquakes occurred in the Chilean subduction zone between 2010 and 2015. Analysis of seismic catalogs indicates that the M<sub>w</sub> 8.4 Illapel earthquake may have been triggered by the earlier Maule and Iquique events through a deep transient slip propagating within the slab. Together, these results point to a central role of the slab in earthquake triggering and preparation, with slip rates at depth evolving over time and redistributing deformation over large spatial and temporal scales not captured by classical earthquake cycle models. </p>
 
 ## **The false quiescence of the Interseismic Phase**
-<div style="float:right; width:45%; margin:0 0 15px 20px; text-align:center;">
+<div style="float:right; width:50%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/aseismic1.png" style="width:100%; height:auto;">
   <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
     Figure 1. Left: Aseismic slip events in the southern Peru–northern Chile subduction zone. Right: Aseismic slip northwestern Colombia.
   </p>
 </div>
-<p align="justify"> Interseismic coupling models are commonly used to infer fault locking between large earthquakes. Locked regions generally correlate with future rupture areas, whereas partially locked zones are often interpreted as creeping aseismically, either steadily or episodically. However, whether aseismic slip occurs as a steady process or in transient bursts remains an open question, with major implications for our understanding of fault mechanics. </p> 
+<p align="justify">
+Interseismic coupling models are commonly used to infer fault locking between large earthquakes. Locked regions generally correlate with future rupture areas, whereas partially locked zones are often interpreted as creeping aseismically, either steadily or episodically. However, whether aseismic slip occurs as a steady process or in transient bursts remains an open question, with major implications for our understanding of fault mechanics.
+</p>
 
-<p align="justify"> This question motivated the development and application of dedicated methods to detect aseismic slip events. I have applied geodetic template matching (GTM) and multivariate singular spectrum analysis (MSSA) to long GNSS time series in the southern Peru–northern Chile subduction zone and along the central section of the North Anatolian Fault. In both regions, these analyses reveal frequent bursts of aseismic slip that would remain undetected without careful data processing. In southern Peru–northern Chile, we identified more than twenty aseismic events over 14 years, primarily occurring in transitional coupling zones and at depths consistent with fluid-rich environments. Along the North Anatolian Fault, GNSS and creepmeter data revealed a clear contrast between steady creep and episodic slip behavior. </p> 
+<p align="justify">
+This question motivated the development and application of dedicated methods to detect aseismic slip events. I have applied geodetic template matching (GTM) and multivariate singular spectrum analysis (MSSA) to long GNSS time series in the southern Peru–northern Chile subduction zone, along the central section of the North Anatolian Fault, and more recently in northern Colombia. In all three regions, these analyses reveal frequent bursts of aseismic slip that would remain undetected without careful data processing. In southern Peru–northern Chile, we identified more than twenty aseismic events over 14 years, primarily occurring in transitional coupling zones and at depths consistent with fluid-rich environments. Along the North Anatolian Fault, GNSS and creepmeter data reveal a clear contrast between steady creep and episodic slip behavior, while in northern Colombia similar transient signals point to previously unrecognized aseismic slip activity (Figure&nbsp;2).
+</p>
 
-<p align="justify"> Taken together, these results demonstrate that the apparent quiescence of the interseismic phase is often misleading. Aseismic slip is widespread, episodic, and plays a fundamental role throughout the earthquake cycle. Properly accounting for these processes is essential for constraining fault mechanics and for developing numerical models that realistically represent deformation across the full seismic cycle. </p>
-<div style="clear:both;"></div>
+<p align="justify">
+Taken together, these results demonstrate that the apparent quiescence of the interseismic phase is often misleading. Aseismic slip is widespread, episodic, and plays a fundamental role throughout the earthquake cycle. Properly accounting for these processes is essential for constraining fault mechanics and for developing numerical models that realistically represent deformation across the full seismic cycle.
+</p>
 
 ## **Underlying physics of aseismic slip**
 
