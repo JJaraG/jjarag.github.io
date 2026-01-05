@@ -38,9 +38,29 @@ author_profile: true
 
 ### **Relevant publications**
 
+[Long-Term Interactions Between Intermediate Depth and Shallow Seismicity in North Chile Subduction Zone.](https://doi.org/10.1002/2017GL075029)<br>
+**Jara, J.**, Socquet, A., Marsan, D., & Bouchon, M. <i>GRL</i>. **2017**, 44(18), 9283–9292. doi:10.1002/2017GL075029. 
+
+[Suspected Deep Interaction and Triggering Between Giant Earthquakes in the Chilean Subduction Zone](https://doi.org/10.1029/2018GL078350)<br>
+Bouchon, M., Marsan, D., **Jara, J.**, Socquet, A., Campillo, M., & Perfettini, H.  <i>GRL</i>. **2018**, 45(11), 5454–5460. doi:10.1029/2018GL078350. 
+
+[Seismogenic Potential of the Main Himalayan Thrust Constrained by Coupling Segmentation and Earthquake Scaling](https://doi.org/10.1029/2021GL093106)<br>
+Michel, S., Jolivet, R., Rollins, C., **Jara, J.**, & Dal Zilio, L. <i>GRL</i>. **2021**, 521, 46-59. doi:10.1029/2021GL093106. 
+
+[Seismogenic potential of northern Chile subduction zone](https://doi.org/10.1785/0120220142)<br>
+Michel, S., Jolivet, R., **Jara, J.** & Rollins, C. <i>BSSA</i>. **2023**, 113(3), 1013-1024. doi:10.1785/0120220142. 
+
+[Update of the Seismogenic Potential of the Upper Rhine Graben Southern Region](https://doi.org/10.5194/nhess-24-163-2024)<br>
+Michel, S., Duverger, C., Bollinger, L., **Jara, J.** & Jolivet, R. <i>NHESS</i>. **2023**, 24, 163–177. doi:10.5194/nhess-24-163-2024. 
+
+[The 2022 Mw 6.0 Gölyaka-Düzce earthquake: an example of a medium-sized earthquake in a fault zone early in its seismic cycle](https://doi.org/10.5194/se-14-1103-2023)<br>
+Martínez-Garzón, P., Becker, D., **Jara, J.**, Chen, X., Kwiatek, G., & Bohnhoff, M. <i>Solid Earth</i>. **2023**, 14(10), 1103–1121. doi:10.5194/se-14-1103-2023. 
+
 [Signature of transition to supershear rupture speed in the coseismic off-fault damage zone](https://doi.org/10.1098/rspa.2021.0364)<br>
 **Jara, J.**, Bruhat, L., Thomas, M. Y., Antoine, S. L., Okubo, K., Rougier, E., Rosakis, A. J., Sammis, C. G., Klinger, Y., Jolivet, R., & Bhat, H. S. <i>PRSA</i>, **2021**, 477(2255). doi:10.1098/rspa.2021.0364
 
-**Jara, J.**, Delgado, F., Raimbault, B., Jolivet, R. \& Vigny, C. The 2007 Aysén earthquakes in southern Chile, a seismogeodetic approach. <i>To be submitted to GRL</i>
+[Impact of geodetic information, subduction zone segmentation and slow-slip events in probabilistic seismic hazard: a case study for Costa Rica](https://doi.org/10.1093/gji/ggaf204)<br>
+Arroyo-Solórzano, M., **Jara, J.**, Weatherill, G., González, A., Hidalgo-Leiva, D. A. & Cotton, F. <i>GJI</i>. **2025**, 242, 1–33. doi:10.1093/gji/ggaf204.
 
-**Jara, J.** & Cotton, F. <i>To be submitted to GJI</i>. A Bayesian Kinematic Source Model in the Frequency Domain: towards under- standing sources of high-frequency radiation.<br>
+[Progressive eastward rupture of the Main Marmara fault toward Istanbul](https://doi.org/10.1126/science.adz0072)<br>
+Martínez-Garzón, P., Chen, X., Becker, D., Núñez-Jara, S., Kartal, R. F., Türker, E., Dresen, G., Ben-Zion, Y., **Jara, J.**, Cotton, F., Kadirioglu, F. T., Kılıç, T. & Bohnhoff, M. <i>Science</i>. **2025**, online ahead of print. doi:10.1126/science.adz0072.
