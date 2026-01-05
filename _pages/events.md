@@ -8,6 +8,10 @@ author_profile: true
 Events
 ======
 
+- 2026: EGU General Assembly. Convener. Session: “TS1.6/EMRP1/SM4 Seismic and aseismic deformation on seismogenic faults: from earthquake nucleation to seismic cycle”. [URL](https://www.egu26.eu/session/56660)
+
+- 2025: EGU General Assembly. Convener. Session: “TS1.6/EMRP1/SM4 Seismic and aseismic deformation on seismogenic faults: from earthquake nucleation to seismic cycle”. [URL](https://meetingorganizer.copernicus.org/EGU25/session/51840)
+
 - 2024: 39th ESC General Assembly. Co-Convener. Session: “Session 25, Preparatory processes of earthquakes, from laboratory experiments to large earthquakes”. [URL](https://www.erasmus.gr/UsersFiles/microsite1277/Documents/Sessions/SESSION25.pdf)
 
 - 2024: EGU General Assembly. Convener. Session: “TS1.6/EMRP1/SM4 Seismic and aseismic deformation on seismogenic faults: from earthquake nucleation to seismic cycle”. [URL](https://meetingorganizer.copernicus.org/EGU24/session/48654)
