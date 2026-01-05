@@ -49,7 +49,7 @@ Overall, this body of work shows that the traditional definition of seismic gaps
 </p>
 <div style="clear:both;"></div>
 
-### **Relevant publications**
+## **Relevant publications**
 
 [Abrupt change in the dip of the subducting plate beneath north Chile.](https://doi.org/10.1038/ngeo1447)<br>
 Contreras-Reyes, E., **Jara, J.**, Grevemeyer, I., Ruiz, S., & Carrizo, D. <i>Nat. Geosci.</i>. **2012**, 5(5), 342–345. https://doi.org/10.1038/ngeo1447.
