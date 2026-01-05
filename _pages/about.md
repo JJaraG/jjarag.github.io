@@ -41,6 +41,10 @@ News
 </li>
 
 <li style="margin-bottom: 15px;">
+<p align="justify"><strong>November 2025:</strong> New preprint alert! Our study "<a href="https://doi.org/10.22541/essoar.176337015.59445929/v1" target="_blank">Metamorphic dehydration reactions trigger slow slip events in subduction zones</a>" is now available on ESSOAr. Using thermal modeling across nine subduction zones and phase equilibrium analysis, we show that slow slip events cluster at ~100°C and ~450±100°C—coinciding with major dehydration reactions in subducting sediments and oceanic crust. </p>
+</li>
+
+<li style="margin-bottom: 15px;">
 <p align="justify"><strong>November 2025:</strong> <strong>Postdoc position available!</strong> We are looking for a motivated early-career researcher (Ph.D. defended within the last 3 years) to join our team for the SEISCLIM project. The 2-year position focuses on integrating physics-based models with seismic hazard analysis. <strong>Application deadline: December 12th, 2025.</strong> More details available <a href="https://www.gfz.de/en/career/job-offers" target="_blank">here</a>.</p>
 </li>
 
