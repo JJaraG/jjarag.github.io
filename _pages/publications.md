@@ -8,7 +8,16 @@ author_profile: true
 
 **Submitted Articles and Work in Progress**<br>
 [- Metamorphic dehydration reactions trigger slow slip events in subduction zones](https://doi.org/10.22541/essoar.176337015.59445929/v1)<br>
-**Jara, J.**, Soret, M., Jolivet, R., Cubas, N., Maksymowicz, A. & Cotton, F. <i>ESSOAr</i>. **2025**, preprint. doi:10.22541/essoar.176337015.59445929/v1. [PDF](https://github.com/JJaraG/jjarag.github.io/master/files/articles/Jara26.pdf)
+**Jara, J.**, Soret, M., Jolivet, R., Cubas, N., Maksymowicz, A. & Cotton, F. <i>ESSOAr</i>. **2025**, preprint. doi:10.22541/essoar.176337015.59445929/v1. [PDF](https://github.com/JJaraG/jjarag.github.io/master/files/articles/Jara26.pdf) <i>Under review in Science Advances</i>
+
+[- Subduction parameters controlling the occurrence of shallow and deep slow-slip events revealed by machine learning](https://doi.org/10.22541/essoar.176296793.37188670/v1)<br>
+Arroyo-Solórzano, M., Crisosto, L., **Jara, J.**, González, Á. & Cotton, F. <i>ESSOAr</i>. **2025**, preprint. doi:10.22541/essoar.176296793.37188670/v1. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/Mario26.pdf) <i>Under review in JGR</i>
+
+[- Anatomy of damaged fault zone by aseismically driven seismicity]<br>
+Becker, D., Martínez-Garzón, P., **Jara, J.**, Çakir, Z. & Jolivet, R. <i>Under review at Nature Geoscience</i>.
+
+[- Capturing the epistemic uncertainty in subduction earthquake rupture parameters]<br>
+Buenrostro, A. M., Cotton, F., **Jara, J.**, Crempien, J. & Jünemann, R. <i>Under review at BSSA</i>.
 
 **Published**<br>
 
