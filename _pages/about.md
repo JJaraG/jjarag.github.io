@@ -45,6 +45,10 @@ News
 </li>
 
 <li style="margin-bottom: 15px;">
+<p align="justify"><strong>November 2025:</strong> New preprint alert! Mario Arroyo-Solórzano's latest study "<a href="https://doi.org/10.22541/essoar.176296793.37188670/v1" target="_blank">Subduction Parameters Controlling the Occurrence of Shallow and Deep Slow-Slip Events (SSEs) Revealed by Machine Learning</a>" is now available on ESSOAr. Using decision-tree-based machine learning, we identify the key factors controlling SSEs globally: low dip angles, slow convergence, and fluid-rich conditions—with distinct depth-dependent patterns for shallow vs. deep events. Great job Mario!</p>
+</li>
+
+<li style="margin-bottom: 15px;">
 <p align="justify"><strong>November 2025:</strong> <strong>Postdoc position available!</strong> We are looking for a motivated early-career researcher (Ph.D. defended within the last 3 years) to join our team for the SEISCLIM project. The 2-year position focuses on integrating physics-based models with seismic hazard analysis. <strong>Application deadline: December 12th, 2025.</strong> More details available <a href="https://www.gfz.de/en/career/job-offers" target="_blank">here</a>.</p>
 </li>
 
