@@ -50,5 +50,11 @@ Contreras-Reyes, E., **Jara, J.**, Maksymowicz, A., & Weinrebe, W. <i>J. Geodyn.
 [Kinematic study of Iquique 2014 M 8.1 earthquake: Understanding the segmentation of the seismogenic zone](https://doi.org/10.1016/j.epsl.2018.09.025)<br>
 **Jara, J.**, Sánchez-Reyes, H., Socquet, A., Cotton, F., Virieux, J., Maksymowicz, A., Díaz-Mojica, J., Walpersdorf, A., Ruiz, J., Cotte, N., & Norabuena, E. <i>EPSL</i>. **2018**, 503, 131–143. doi:10.1016/j.epsl.2018.09.025
 
+[Daily to centennial behavior of aseismic slip along the central section of the North Anatolian Fault](https://doi.org/10.1029/2022JB026018)<br> 
+Jolivet, R., **Jara, J.**, Dalaison, M., Rouet-Leduc, B., Özdemir, A., Doğan, U., Çakir, Z. & Ergintav, S. <i>JGR</i>. **2023**, 128(7), 1-35. doi:10.1029/2022JB026018.
+
 [The 2022 Mw 6.0 Gölyaka-Düzce earthquake: an example of a medium-sized earthquake in a fault zone early in its seismic cycle](https://doi.org/10.5194/se-14-1103-2023)<br>
 Martínez-Garzón, P., Becker, D., **Jara, J.**, Chen, X., Kwiatek, G., & Bohnhoff, M. <i>Solid Earth</i>. **2023**, 14(10), 1103–1121. doi:10.5194/se-14-1103-2023.
+
+[Detecting millimetric slow slip events along the North Anatolian Fault with GNSS](https://doi.org/10.1029/2024GL111428)<br>
+Özdemir, A., **Jara, J.**, Doğan, U., Jolivet, R., Çakir, Z., Nocquet, J.-M., Ergintav, S. & Bilham, R. <i>GRL</i>. **2025**, 52, e2024GL111428. doi:10.1029/2024GL111428.
