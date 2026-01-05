@@ -7,24 +7,7 @@ author_profile: true
 <p class="text-justify"> Most of the articles are already free or in a preprint version. If you need a specific one, do not hesitate to contact me.</p>
 
 **Submitted Articles and Work in Progress**<br>
-- Detection of slow slip events along the south Peru - north Chile subduction zone.<br>
-**Jara, J.**, Socquet, A., Jolivet, R., Comte, D. & Norabuena, E. <i>Submitted to Seismica</i>.
-- Episodic aseismic slip events along the Central Section of the North Anatolian Fault. <br>
-Özdemir, A., **Jara, J.**, Doğan, U., Jolivet, R., Çakir, Z., Ergintav, S., & Bilham, R. G. <i>To be submitted to GRL</i>.
-- A Bayesian Kinematic Source Model in the Frequency Domain: towards under- standing sources of high-frequency radiation.<br>
-**Jara, J.** & Cotton, F. <i>To be submitted to GJI</i>.
-- Earthquakes and unexpected seasonal loads.<br>
-**Jara, J.**, Gupta, A. & Bhat, H.S. <i>To be submitted to GRL</i>.
-- Seismic signatures in a partially creeping fault: the Ismetpasa segment of the NAFZ.<br>
-Becker, D., **Jara, J.**, Martínez-Garzón, P., Çakir, Z., Jolivet, R. & Ergintav, S. <i>To be submitted to JGR</i>.
-- Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data. <br>
-Delgado, F., **Jara, J.**, Raimbault, B. & Jolivet, R.  <i>To be submitted to GJI</i>.
-- The 2007 Aysén earthquakes in southern Chile, a seismogeodetic approach.<br>
-**Jara, J.**, Delgado, F., Raimbault, B., Jolivet, R. \& Vigny, C. The 2007 Aysén earthquakes in southern Chile, a seismogeodetic approach. <i>To be submitted to GRL</i>
-- Water vapor variability in the western South America Altiplano associated with rainfall events.<br>
-Valenzuela, R., **Jara, J.** & Garreaud, R. <i>To be submitted to JGR</i>.
-- An expectation-maximization algorithm for estimating diffusion parameters using incomplete observations.
-Contador, G., Quiñiñao, C., Valenzuela, R. & **Jara, J.** <i>To be submitted to Advances Applied Probability</i>.
+
 
 **Published**<br>
 
