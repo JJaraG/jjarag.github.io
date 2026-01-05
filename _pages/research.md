@@ -13,7 +13,9 @@ author_profile: true
       <a href="https://jjarag.github.io/research/seismotectonics">Seismotectonics</a>
     </h2>
     <img src="/images/research/seismotectonics_intro.png" width="100%">
-    <p class="caption">Coastal Scarp in Northern Chile</p>
+    <p class="caption" style="font-size:0.85em; color:#666; margin-top:6px;">
+  Coastal Scarp in Northern Chile
+</p>
   </div>
 <!-- Aseismic Slip -->
   <div>
