@@ -19,7 +19,7 @@ About me
 Research Interests
 ======
 
-<p align="justify">My research focuses on understanding Earth's deformation at different spatio-temporal scales and its relationship to earthquakes. I am fascinated by how Space Geodesy (especially GNSS) and Seismology can be combined to understand better why and where earthquakes (will) occur. I tackle such exciting problems along the Chilean subduction zone, and the North Anatolian Fault.</p>
+<p align="justify">My research focuses on understanding Earth's deformation at different spatio-temporal scales and its relationship to earthquakes. I am fascinated by how Space Geodesy (especially GNSS) and Seismology can be combined to understand better why and where earthquakes (will) occur. Additionally, I investigate the connections between hydro-meteorological processes and crustal deformation. I tackle such exciting problems along the Chilean subduction zone and the North Anatolian Fault.</p>
 
 <img style="float: center;" src="/images/research/portrait_webpage.jpg">
 
