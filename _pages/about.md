@@ -33,7 +33,7 @@ News
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 
 <li style="margin-bottom: 15px;">
-<p align="justify"><strong>December 2025:</strong> Our new article "Atmospheric Water Vapor and Precipitation Coupling in Southwestern South America" has been published in <em>Geophysical Research Letters</em>! We analyzed 15–27 years of GNSS-derived precipitable water vapor (PWV) across Chile, revealing how PWV–precipitation coupling varies with latitude and precipitation regime. See <a href="/publications/">Publications section</a> for more info.</p>
+<p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;"><strong>December 2025:</strong> Our new article "Atmospheric Water Vapor and Precipitation Coupling in Southwestern South America" has been published in <em>Geophysical Research Letters</em>! We analyzed 15–27 years of GNSS-derived precipitable water vapor (PWV) across Chile, revealing how PWV–precipitation coupling varies with latitude and precipitation regime. See <a href="/publications/">Publications section</a> for more info.</p>
 </li>
 
 <li style="margin-bottom: 15px;">
