@@ -10,6 +10,8 @@ author_profile: true
 
 
 **Published**<br>
+[18. Detection of slow slip events along the southern Peru - northern Chile subduction zone](https://doi.org/10.26443/seismica.v3i1.980)<br>
+**Jara, J.**, Jolivet, R., Socquet, A., Comte, D. & Norabuena, E. <i>Seismica</i>. **2024**, 3(1), 1-21. doi:10.26443/seismica.v3i1.980. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/Jara24.pdf)
 
 [17. Daily to centennial behavior of aseismic slip along the central section of the North Anatolian Fault](https://doi.org/10.1029/2022JB026018)<br> 
 Jolivet, R., **Jara, J.**, Dalaison, M., Rouet-Leduc, B., Özdemir, A., Doğan, U., Çakir, Z. & Ergintav, S. <i>JGR</i>. **2023**, 128(7), 1-35. doi:10.1029/2022JB026018. [PDF](https://github.com/JJaraG/jjarag.github.io/blob/master/files/articles/Jolivet23.pdf)
