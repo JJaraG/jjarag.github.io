@@ -85,9 +85,14 @@ Bouchon, M., Guillot, S., Marsan, D., Socquet, A., **Jara, J.**, & Renard, F.  <
 [Daily to centennial behavior of aseismic slip along the central section of the North Anatolian Fault](https://doi.org/10.1029/2022JB026018)<br> 
 Jolivet, R., **Jara, J.**, Dalaison, M., Rouet-Leduc, B., Özdemir, A., Doğan, U., Çakir, Z. & Ergintav, S. <i>JGR</i>. **2023**, 128(7), 1-35. doi:10.1029/2022JB026018.
 
-- Detection of slow slip events along the south Peru - north Chile subduction zone.<br>
-**Jara, J.**, Socquet, A., Jolivet, R., Comte, D. & Norabuena, E. <i>Submitted to Seismica</i>.
+[Detection of slow slip events along the southern Peru - northern Chile subduction zone](https://doi.org/10.26443/seismica.v3i1.980)<br>
+**Jara, J.**, Jolivet, R., Socquet, A., Comte, D. & Norabuena, E. <i>Seismica</i>. **2024**, 3(1), 1-21. doi:10.26443/seismica.v3i1.980. 
 
-- Episodic aseismic slip events along the Central Section of the North Anatolian Fault. <br>
-Özdemir, A., **Jara, J.**, Doğan, U., Jolivet, R., Çakir, Z., Ergintav, S., & Bilham, R. G. <i>To be submitted to GRL</i>.
+[Detecting millimetric slow slip events along the North Anatolian Fault with GNSS](https://doi.org/10.1029/2024GL111428)<br>
+Özdemir, A., **Jara, J.**, Doğan, U., Jolivet, R., Çakir, Z., Nocquet, J.-M., Ergintav, S. & Bilham, R. <i>GRL</i>. **2025**, 52, e2024GL111428. doi:10.1029/2024GL111428.
 
+[Subduction parameters controlling the occurrence of shallow and deep slow-slip events revealed by machine learning](https://doi.org/10.22541/essoar.176296793.37188670/v1)<br>
+Arroyo-Solórzano, M., Crisosto, L., **Jara, J.**, González, Á. & Cotton, F. <i>ESSOAr</i>. **2025**, preprint. doi:10.22541/essoar.176296793.37188670/v1. 
+
+[Metamorphic dehydration reactions trigger slow slip events in subduction zones](https://doi.org/10.22541/essoar.176337015.59445929/v1)<br>
+**Jara, J.**, Soret, M., Jolivet, R., Cubas, N., Maksymowicz, A. & Cotton, F. <i>ESSOAr</i>. **2025**, preprint. doi:10.22541/essoar.176337015.59445929/v1.

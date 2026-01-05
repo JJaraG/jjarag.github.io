@@ -60,3 +60,6 @@ Martínez-Garzón, P., Becker, D., **Jara, J.**, Chen, X., Kwiatek, G., & Bohnho
 
 [Detecting millimetric slow slip events along the North Anatolian Fault with GNSS](https://doi.org/10.1029/2024GL111428)<br>
 Özdemir, A., **Jara, J.**, Doğan, U., Jolivet, R., Çakir, Z., Nocquet, J.-M., Ergintav, S. & Bilham, R. <i>GRL</i>. **2025**, 52, e2024GL111428. doi:10.1029/2024GL111428.
+
+[Progressive eastward rupture of the Main Marmara fault toward Istanbul](https://doi.org/10.1126/science.adz0072)<br>
+Martínez-Garzón, P., Chen, X., Becker, D., Núñez-Jara, S., Kartal, R. F., Türker, E., Dresen, G., Ben-Zion, Y., **Jara, J.**, Cotton, F., Kadirioglu, F. T., Kılıç, T. & Bohnhoff, M. <i>Science</i>. **2025**. doi:10.1126/science.adz0072. 
