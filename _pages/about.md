@@ -64,7 +64,13 @@ News
 <p align="justify"><strong>July 2025:</strong> I gave an invited talk at the <a href="https://frensz-2025.sciencesconf.org" target="_blank">FRENSZ 2025</a> workshop in Sampeyre (Italy), presenting our work on metamorphic dehydration reactions and their role in triggering slow slip events in subduction zones.</p>
 </li>
 
+<li style="margin-bottom: 15px;">
+<p align="justify"><strong>May 2025:</strong> We are at <a href="https://www.egu25.eu/" target="_blank">EGU General Assembly 2025</a> in Vienna! Come see our work: I'm giving a talk on <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-11371.html" target="_blank">EGU25-11371</a> on Friday 02 May in Room G2. Also check out Mario Arroyo-Solórzano's poster on machine learning and slow slip events (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-7255.html" target="_blank">EGU25-7255</a>, Fri 02 May, 10:45–12:30, Hall X3 | X3.15) and Angélica Buenrostro's poster on synthetic seismograms from physics-based rupture modeling (<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-6860.html" target="_blank">EGU25-6860</a>, Wed 30 Apr, 10:45–12:30, Hall X1 | X1.135).</p>
+</li>
 
+<li style="margin-bottom: 15px;">
+<p align="justify"><strong>May 2025:</strong> Our new article "Detecting Millimetric Slow Slip Events Along the North Anatolian Fault With GNSS" has been published in <em>Geophysical Research Letters</em>! This work was carried out by Alpay Özdemir during his Ph.D.—great job Alpay! Using GNSS time series analysis and creepmeter data, we detected a M<sub>W</sub> 4.8 shallow slow slip event along the central section of the North Anatolian Fault, revealing how steady creep and transient SSEs interact spatially and temporally. See <a href="/publications/">Publications section</a> for more info.</p>
+</li>
 
 </ul>
 </div>
