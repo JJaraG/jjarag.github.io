@@ -12,7 +12,7 @@ author_profile: true
 
 <div style="float:right; width:38%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/seismotectonics1.jpeg" style="width:100%; height:auto;">
-  <p style="font-size:0.6em; color:#666; margin-top:6px; text-align:justify;">
+  <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
     Figure 1. (a) Iquique EQ data (blue) and synthetic seismograms (red) with the kinematic slip model (b).
     (c) High-resolution topography and (d) free-air gravity anomaly.
     Mainshock (green) and aftershock (pink) slip contours are shown.
@@ -29,7 +29,7 @@ I then focused on the northern Chile subduction zone, a region considered a matu
 
 <div style="float:left; width:38%; margin:0 0 15px 20px; text-align:center;">
   <img src="/images/research/seismotectonics2.png" style="width:100%; height:auto;">
-  <p style="font-size:0.6em; color:#666; margin-top:6px; text-align:justify;">
+  <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
     Figure 2 (a) Fault slip rate\cite{Jolivet23} and (b) slip of 2019 SSE\cite{Ozdemir25} in the NAF central section (Ismetpasa). Historical EQ extensions are denoted by green arrows (a), as well as regions with different aseismic slip behavior. Dark blue triangles show the location of the following cities: Gerede (Ge), Ismetpasa (Is), Cerkes (Ce), Bayramoren (Ba) and Ilgaz (IL).  Left bottom inset shows the displacement during the 2019 SSE captured by creepmeters and GNSS. (c) 2022-2024 EQ catalog from a local network, color-coded by depth and scaled by magnitude. Color scale shows fault slip rate from (a).
   </p>
 </div>
