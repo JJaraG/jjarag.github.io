@@ -40,7 +40,7 @@ The region was later struck by the M<sub>w</sub> 8.1 Iquique earthquake in 2014.
 </div>
 
 <p align="justify">
-I have extended this perspective on fault segmentation to continental strike-slip systems, particularly the North Anatolian Fault (Figure&nbsp;1). Working in collaboration with colleagues, we investigated how this fault hosts repeated large earthquakes and displays pronounced along-strike and along-dip variations in slip behavior. Geodetic observations reveal locked segments separated by zones of aseismic creep, likely controlled by variations in fluid presence and lithological contrasts. These factors influence locking depth and rupture extent, emphasizing that segmentation is a fundamental property of fault zones across different tectonic settings.
+I have extended this perspective on fault segmentation to continental strike-slip systems, particularly the North Anatolian Fault (Figure&nbsp;2). Working in collaboration with colleagues, we investigated how this fault hosts repeated large earthquakes and displays pronounced along-strike and along-dip variations in slip behavior. Geodetic observations reveal locked segments separated by zones of aseismic creep, likely controlled by variations in fluid presence and lithological contrasts. These factors influence locking depth and rupture extent, emphasizing that segmentation is a fundamental property of fault zones across different tectonic settings.
 </p>
 
 <p align="justify">
