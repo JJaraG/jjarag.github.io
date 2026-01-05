@@ -41,6 +41,10 @@ News
 </li>
 
 <li style="margin-bottom: 15px;">
+<p align="justify"><strong>December 2025:</strong> <strong>Call for abstracts!</strong> We are convening session <a href="https://www.egu26.eu/session/56660" target="_blank">TS1.8 – Seismic and aseismic fault deformation</a> at <a href="https://www.egu26.eu/" target="_blank">EGU General Assembly 2026</a> (Vienna, 3–8 May 2026). We welcome contributions exploring the diversity and interplay between seismic and aseismic slip phenomena, including the role of fluids, fault properties, and loading conditions in controlling fault slip behaviors. Observational, experimental, geological, and theoretical studies are all welcome! Convened with L. Dal Zilio, A. Bonnelye, P. Martínez-Garzón, and S. Michel. <strong>Abstract deadline: 14 January 2026.</strong></p>
+</li>
+
+<li style="margin-bottom: 15px;">
 <p align="justify"><strong>November 2025:</strong> New preprint alert! Our study "<a href="https://doi.org/10.22541/essoar.176337015.59445929/v1" target="_blank">Metamorphic dehydration reactions trigger slow slip events in subduction zones</a>" is now available on ESSOAr. Using thermal modeling across nine subduction zones and phase equilibrium analysis, we show that slow slip events cluster at ~100°C and ~450±100°C—coinciding with major dehydration reactions in subducting sediments and oceanic crust. </p>
 </li>
 
