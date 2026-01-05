@@ -35,7 +35,7 @@ author_profile: true
 <!-- Supershear -->
   <div>
     <h2>
-      <a href="https://jjarag.github.io/research/supershear">EQ rupture speed and high-frequency radiation</a>
+      <a href="https://jjarag.github.io/research/hazard">Seismic Hazard</a>
     </h2>
     <img src="/images/research/supershear.png"
          style="width:100%; height:260px; object-fit:contain; background:#ffffff;">
