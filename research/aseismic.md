@@ -23,14 +23,7 @@ author_profile: true
 Interseismic coupling models are commonly used to infer fault locking between large earthquakes. Locked regions generally correlate with future rupture areas, whereas partially locked zones are often interpreted as creeping aseismically, either steadily or episodically. However, whether aseismic slip occurs as a steady process or in transient bursts remains an open question, with major implications for our understanding of fault mechanics.
 </p>
 
-<div style="width:60%; margin:20px auto; text-align:center;">
-  <img src="/images/research/aseismic1.png"
-       style="display:block; margin:0 auto; width:100%; height:auto;">
-  <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;">
-    Figure 1. Left: Aseismic slip events in the southern Peru–northern Chile subduction zone.
-    Right: Aseismic slip in northwestern Colombia.
-  </p>
-</div>
+<div style="float:right; width:70%; margin:0 0 15px 20px; text-align:center;"> <img src="/images/research/aseismic1.png" style="display:block; margin:0 auto; width:100%; height:auto;"> <p style="font-size:0.7em; color:#666; margin-top:6px; text-align:justify;"> Figure 1. Left: Aseismic slip events in the southern Peru–northern Chile subduction zone. Right: Aseismic slip in northwestern Colombia. </p> </div>
 
 
 <p align="justify">
