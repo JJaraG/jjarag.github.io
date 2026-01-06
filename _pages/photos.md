@@ -17,17 +17,17 @@ author_profile: true
 ">
 
   <div style="background:#fff;">
-    <img src="/files/photos/isme1.png"
+    <img src="/files/photos/isme1.jpeg"
          style="width:100%; height:220px; object-fit:cover; background:#fff;">
   </div>
 
   <div style="background:#fff;">
-    <img src="/files/photos/isme2.png"
+    <img src="/files/photos/isme2.jpeg"
          style="width:100%; height:220px; object-fit:cover; background:#fff;">
   </div>
 
   <div style="background:#fff;">
-    <img src="/files/photos/isme3.png"
+    <img src="/files/photos/isme3.jpeg"
          style="width:100%; height:220px; object-fit:cover; background:#fff;">
   </div>
 
