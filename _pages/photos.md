@@ -39,7 +39,7 @@ Visit to my hometown, Santiago de Chile. Seminar presentation on aseismic slip a
 </p>
 
 <!-- EGU 2023 -->
-<h2 style="margin-top:30px;">AGU, San Francisco, US </h2>
+<h2 style="margin-top:30px;">EGU, Vienna, Austria </h2>
 <p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
 April 2023
 </p>
@@ -79,7 +79,7 @@ October 2022
 </p>
 <div style="
   display:grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap:16px;
   margin:15px 0 8px 0;
   background:#fff;
