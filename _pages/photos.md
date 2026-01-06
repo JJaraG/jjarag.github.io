@@ -8,7 +8,7 @@ author_profile: true
 <!-- Princess Island and Istempasa 2025 -->
 <h2 style="margin-top:30px;">Field maintenance at the Princess Islands and Ismetpasa networks.</h2>
 <p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
-September 2024
+September - October 2025
 </p>
 <div style="
   display:grid;
