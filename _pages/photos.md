@@ -5,6 +5,43 @@ permalink: /photos/
 author_profile: true
 ---
 
+<!-- Ismetpasa 2019: Network Installation -->
+<h2 style="margin-top:30px;">Ismetpasa GNSS Installation</h2>
+
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div><img src="/files/photos/isme7.jpeg"
+       style="width:100%; height:220px; object-fit:cover; background:#fff;"></div>
+
+  <div><img src="/files/photos/isme8.jpeg"
+       style="width:100%; height:220px; object-fit:cover; background:#fff;"></div>
+
+  <div><img src="/files/photos/isme9.jpeg"
+       style="width:100%; height:220px; object-fit:cover; background:#fff;"></div>
+
+  <div><img src="/files/photos/isme10.jpeg"
+       style="width:100%; height:220px; object-fit:cover; background:#fff;"></div>
+
+  <div><img src="/files/photos/isme11.jpeg"
+       style="width:100%; height:220px; object-fit:cover; background:#fff;"></div>
+
+  <div><img src="/files/photos/isme12.jpeg"
+       style="width:100%; height:220px; object-fit:cover; background:#fff;"></div>
+
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+Installation of GNSS network in Ismetpasa,
+with Dr. A. Özdemir, Prof. Dr. Ziya Çakir, and Dr. S. Michel, June 2019 (not everything is science!).
+</p>
+
+
 <!-- Ismetpasa 2018: Radome Instalation -->
 <h2 style="margin-top:30px;">Ismetpasa GNSS exploration</h2>
 
