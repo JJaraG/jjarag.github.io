@@ -5,6 +5,41 @@ permalink: /photos/
 author_profile: true
 ---
 
+<!-- Ismetpasa in summer -->
+<h2 style="margin-top:30px;">Ismetpasa in winter </h2>
+<p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
+June 2022
+</p>
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme19.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme20.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme21.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+Ismetpasa with the usual crew, summer storms included, with Dr. B. Raimbault.
+</p>
+
+
 <!-- Ismetpasa with snow -->
 <h2 style="margin-top:30px;">Ismetpasa in winter </h2>
 <p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
