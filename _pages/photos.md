@@ -163,7 +163,7 @@ September 2024
   display:grid;
   grid-template-columns: repeat(3, 1fr);
   gap:16px;
-  margin:15px 0 8px 0;
+  margin:8px 0 15px 0;
   background:#fff;
 ">
 
@@ -193,7 +193,7 @@ September 2024
   </div>
 
   <div style="background:#fff;">
-    <img src="/files/photos/ism36.jpeg"
+    <img src="/files/photos/isme36.jpeg"
          style="width:100%; height:220px; object-fit:cover; background:#fff;">
   </div>
     
@@ -257,7 +257,7 @@ September 2023
   </div>
 
   <div style="background:#fff;">
-    <img src="/files/photos/ism30.jpeg"
+    <img src="/files/photos/isme30.jpeg"
          style="width:100%; height:220px; object-fit:cover; background:#fff;">
   </div>
 
