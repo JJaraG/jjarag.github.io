@@ -149,7 +149,7 @@ April 2025
 </div>
 
 <p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
-Maintenance of GNSS and seismic networks in Ismetpasa under the snow in spring!!!
+Maintenance of GNSS and seismic networks in Ismetpasa under the snow in spring!!! With Dr. A. Özdemir and MSc. Sebastian Nuñez.
 </p>
 
 
