@@ -10,7 +10,7 @@ Teaching and mentoring are central to my academic activity. I have taught at the
 </p>
 
 <p align="justify">
-I have served as a <strong>lecturer and teaching assistant</strong> in courses on <strong>probabilistic seismic hazard assessment, solid mechanics, seismology, and geodynamics</strong> at the <strong>University of Potsdam, ENS–PSL, the University of Chile, and Universidad Andrés Bello</strong>. My teaching spans introductory courses to advanced master’s-level classes, with a strong focus on linking <strong>theory, observations, and real-world problems</strong>.
+I have served as a <strong>lecturer and teaching assistant</strong> in courses on <strong>probabilistic seismic hazard assessment, solid mechanics, seismology, maths, and geodynamics</strong> at the <strong>University of Potsdam, ENS–PSL, the University of Chile, and Universidad Andrés Bello</strong>. My teaching spans introductory courses to advanced master’s-level classes, with a strong focus on linking <strong>theory, observations, and real-world problems</strong>.
 </p>
 
 <p align="justify">
