@@ -4,6 +4,41 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+
+<!-- Ismetpasa 2023 -->
+<h2 style="margin-top:30px;">Ismetpasa Maintenance</h2>
+<p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
+September 2023
+</p>
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/chi1.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/chi2.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/chi3.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+Maintenance of GNSS and seismic networks in Ismetpasa, including a close encounter with a not-so-friendly wasp nest.
+</p>
+
 <!-- Chile 2023 -->
 <h2 style="margin-top:30px;">Chile Workshop</h2>
 <p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
