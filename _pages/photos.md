@@ -9,7 +9,7 @@ author_profile: true
 <h2 style="margin-top:30px;"> Never forget your origins </h2>
 <div style="
   display:grid;
-  grid-template-columns: repeat(1, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap:16px;
   margin:15px 0 8px 0;
   background:#fff;
