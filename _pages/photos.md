@@ -4,6 +4,57 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+
+<!-- Princess Island and Istempasa 2025 -->
+<h2 style="margin-top:30px;">Field maintenance at the Princess Islands and Ismetpasa networks.</h2>
+<p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
+September 2024
+</p>
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/pi1.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/pi2.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/pi3.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/pi4.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/pi5.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/pi6.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+    
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+Field maintenance at the Princess Islands and Ismetpasa networks.
+</p>
+
+
 <!-- Torineto 2025 -->
 <h2 style="margin-top:30px;">Worshop FrenSZ Field excursion, Italie </h2>
 <p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
