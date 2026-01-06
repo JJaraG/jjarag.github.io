@@ -4,6 +4,37 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+<!-- Atag Meeting 2019 -->
+<h2 style="margin-top:30px;">23rd ATAG Meeting, ITU, Istanbul </h2>
+
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme13.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme14.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme15.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+23rd ATAG Meeting at ITU, Istanbul. Opening ceremony by Prof. Dr. Ziya Çakir. Presentation of our work on supershear rupture transition, in collaboration with Dr. L. Bruhat. October 2019.
+</p>
 
 <!-- Ismetpasa 2019: Network Installation -->
 <h2 style="margin-top:30px;">Ismetpasa GNSS Installation</h2>
@@ -38,7 +69,7 @@ author_profile: true
 
 <p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
 Installation of GNSS network in Ismetpasa,
-with Dr. A. Özdemir, Prof. Dr. Ziya Çakir, and Dr. S. Michel, June 2019 (not everything is science!).
+with Dr. A. Özdemir, Prof. Dr. Z. Çakir, and Dr. S. Michel, June 2019 (not everything is science!).
 </p>
 
 
@@ -72,7 +103,7 @@ with Dr. A. Özdemir, Prof. Dr. Ziya Çakir, and Dr. S. Michel, June 2019 (not e
 
 <p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
 GNSS Radome instalation of sites in Ismetpasa (central section of the North Anatolian Fault, Türkiye), with
-Dr. A. Özdemir and Prof. Dr. Ziya Çakir, November 2018.
+Dr. A. Özdemir and Prof. Dr. Z. Çakir, November 2018.
 </p>
 
 
@@ -106,5 +137,5 @@ Dr. A. Özdemir and Prof. Dr. Ziya Çakir, November 2018.
 
 <p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
 Exploration of sites in Ismetpasa (central section of the North Anatolian Fault, Türkiye), with
-Dr. A. Özdemir and Prof. Dr. Ziya Çakir, June 2018.
+Dr. A. Özdemir and Prof. Dr. Z. Çakir, June 2018.
 </p>
