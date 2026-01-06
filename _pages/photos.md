@@ -51,7 +51,7 @@ September 2024
 </div>
 
 <p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
-Field maintenance at the Princess Islands and Ismetpasa networks.
+Field maintenance at the Princess Islands, off Istanbul, and the usual work in Ismetpasa.
 </p>
 
 
