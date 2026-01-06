@@ -4,9 +4,57 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+<!-- Ismetpasa in Spring -->
+<h2 style="margin-top:30px;">Ismetpasa in winter </h2>
+<p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
+June 2022
+</p>
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme22.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme23.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme24.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme25.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme26.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme27.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+Autumn fieldwork in Ismetpasa for GNSS site visits and seismic network installation, with Dr. A. Özdemir, Prof. Dr. Ziya Çakir, and Dr. D. Becker.
+</p>
 
 <!-- Ismetpasa in summer -->
-<h2 style="margin-top:30px;">Ismetpasa in winter </h2>
+<h2 style="margin-top:30px;">Ismetpasa in summer </h2>
 <p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
 June 2022
 </p>
