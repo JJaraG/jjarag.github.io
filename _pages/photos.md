@@ -152,13 +152,12 @@ April 2025
 Maintenance of GNSS and seismic networks in Ismetpasa under the snow in spring!!! With Dr. A. Özdemir and MSc. Sebastian Nuñez.
 </p>
 
-
-
 <!-- Ismetpasa 2024 -->
 <h2 style="margin-top:30px;">Ismetpasa Maintenance</h2>
 <p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
 September 2024
 </p>
+
 <div style="
   display:grid;
   grid-template-columns: repeat(3, 1fr);
@@ -167,41 +166,42 @@ September 2024
   background:#fff;
 ">
 
-  <div style="background:#fff;">
+  <div style="background:#fff; text-align:center;">
     <img src="/files/photos/isme31.jpeg"
-         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+         style="width:100%; height:auto; object-fit:contain; background:#fff;">
   </div>
 
-  <div style="background:#fff;">
+  <div style="background:#fff; text-align:center;">
     <img src="/files/photos/isme32.jpeg"
-         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+         style="width:100%; height:auto; object-fit:contain; background:#fff;">
   </div>
 
-  <div style="background:#fff;">
+  <div style="background:#fff; text-align:center;">
     <img src="/files/photos/isme33.jpeg"
-         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+         style="width:100%; height:auto; object-fit:contain; background:#fff;">
   </div>
 
-  <div style="background:#fff;">
+  <div style="background:#fff; text-align:center;">
     <img src="/files/photos/isme34.jpeg"
-         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+         style="width:100%; height:auto; object-fit:contain; background:#fff;">
   </div>
 
-  <div style="background:#fff;">
+  <div style="background:#fff; text-align:center;">
     <img src="/files/photos/isme35.jpeg"
-         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+         style="width:100%; height:auto; object-fit:contain; background:#fff;">
   </div>
 
-  <div style="background:#fff;">
+  <div style="background:#fff; text-align:center;">
     <img src="/files/photos/isme36.jpeg"
-         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+         style="width:100%; height:auto; object-fit:contain; background:#fff;">
   </div>
-    
+
 </div>
 
 <p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
 Maintenance of GNSS and seismic networks in Ismetpasa.
 </p>
+
 
 <!-- EGU 2024 -->
 <h2 style="margin-top:30px;">EGU, Vienna, Austria </h2>
