@@ -4,6 +4,39 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+<!-- Torineto 2025 -->
+<h2 style="margin-top:30px;">Worshop FrenSZ Field excursion, Italie </h2>
+<p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
+May 2025
+</p>
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/to1.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/to2.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/to3.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+Field Workshop and Excursion (FrenSZ) – Monte Viso Area, Sampeyre, Italy.
+</p>
 
 <!-- EGU 2025 -->
 <h2 style="margin-top:30px;">EGU, Vienna, Austria </h2>
