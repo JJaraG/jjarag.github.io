@@ -4,6 +4,34 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+
+<!-- AGU 2019 -->
+<h2 style="margin-top:30px;">AGU, San Francisco, US </h2>
+
+<div style="
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/agu1.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/agu2.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+100th AGU Fall Meeting (2019), San Francisco. Presentation of our work on slow slip events in Chile and on supershear rupture transition.
+</p>
+
 <!-- Atag Meeting 2019 -->
 <h2 style="margin-top:30px;">23rd ATAG Meeting, ITU, Istanbul </h2>
 
