@@ -4,6 +4,41 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+<!-- Ismetpasa 2025 -->
+<h2 style="margin-top:30px;">Ismetpasa Maintenance</h2>
+<p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
+April 2025
+</p>
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme37.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme38.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/isme39.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+    
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+Maintenance of GNSS and seismic networks in Ismetpasa under the snow in spring!!!
+</p>
+
+
 
 <!-- Ismetpasa 2024 -->
 <h2 style="margin-top:30px;">Ismetpasa Maintenance</h2>
@@ -29,7 +64,7 @@ September 2024
   </div>
 
   <div style="background:#fff;">
-    <img src="/files/photos/ism33.jpeg"
+    <img src="/files/photos/isme33.jpeg"
          style="width:100%; height:220px; object-fit:cover; background:#fff;">
   </div>
 
