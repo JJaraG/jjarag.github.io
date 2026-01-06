@@ -16,7 +16,7 @@ SEISCLIM - "Seismoctectonics and climate: challenges bridging scales"
     
     <a href="/images/research/seisclim.pdf" target="_blank"
        style="width:35%; text-decoration:none;">
-      <img src="/images/icons/pdf_icon.png"
+      <img src="/images/research/seisclim.pdf"
            style="width:100%; height:auto;">
       <p style="font-size:0.7em; color:#666; margin-top:4px;">
         SEISCLIM project (PDF)
