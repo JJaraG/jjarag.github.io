@@ -56,7 +56,7 @@ Post-COVID field campaign in Ismetpasa under snowy conditions, led by Dr. A. Öz
 
 </div>
 <p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
-Our NOrth is the South!
+Our North is the South!
 </p>
 
 <!-- AGU 2019 -->
