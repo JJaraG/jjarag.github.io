@@ -7,22 +7,16 @@ author_profile: true
 SEISCLIM - "Seismoctectonics and climate: challenges bridging scales"
 ======
 
-<div style="display:flex; gap:16px; align-items:flex-start; margin:10px 0 15px 0;">
-  
-  <!-- Main figure -->
-  <div style="flex:3; text-align:center;">
-    <img src="/images/research/hydroeq.png"
-         style="display:block; margin:0 auto; width:100%; max-width:700px; height:auto;">
-  </div>
+<div style="text-align:center; margin:10px 0 15px 0;">
+  <img src="/images/research/hydroeq.png"
+       style="display:block; margin:0 auto; width:100%; max-width:750px; height:auto;">
+</div>
 
-  <!-- PDF link block -->
-  <div style="flex:1; text-align:center; min-width:160px;">
-    <a href="/images/research/seisclim.pdf" target="_blank" style="text-decoration:none;">
-      <div style="border:1px solid #ddd; border-radius:10px; padding:12px; background:#fff;">
-      </div>
-    </a>
-  </div>
-
+<div style="text-align:center; margin:0 0 15px 0;">
+  <a href="/images/research/seisclim.pdf" target="_blank">
+    <img src="/images/research/seisclim.pdf"
+         style="display:block; margin:0 auto; width:100%; max-width:420px; height:auto; border:1px solid #ddd; border-radius:10px; background:#fff;">
+  </a>
 </div>
 
 <p align="justify">
