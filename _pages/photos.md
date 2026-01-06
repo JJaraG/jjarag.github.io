@@ -4,14 +4,48 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
-<!-- Ismetpasa in Spring -->
-<h2 style="margin-top:30px;">Ismetpasa in winter </h2>
+<!-- EGU 2023 -->
+<h2 style="margin-top:30px;">AGU, San Francisco, US </h2>
 <p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
-June 2022
+April 2023
 </p>
 <div style="
   display:grid;
   grid-template-columns: repeat(3, 1fr);
+  gap:16px;
+  margin:15px 0 8px 0;
+  background:#fff;
+">
+
+  <div style="background:#fff;">
+    <img src="/files/photos/egu1.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/egu2.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+  <div style="background:#fff;">
+    <img src="/files/photos/egu3.jpeg"
+         style="width:100%; height:220px; object-fit:cover; background:#fff;">
+  </div>
+
+</div>
+
+<p style="font-size:0.75em; color:#666; text-align:justify; margin-top:6px;">
+EGU 2023, Vienna, Austria. Presentation on aseismic slip in Türkiye, with discussions and exchanges with Prof. Dr. H. S. Bhat’s research group.
+</p>
+
+<!-- Ismetpasa in Spring -->
+<h2 style="margin-top:30px;">Ismetpasa in winter </h2>
+<p style="font-size:0.8em; color:#666; margin-top:-6px; margin-bottom:12px;">
+October 2022
+</p>
+<div style="
+  display:grid;
+  grid-template-columns: repeat(6, 1fr);
   gap:16px;
   margin:15px 0 8px 0;
   background:#fff;
