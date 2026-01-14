@@ -36,6 +36,8 @@ News
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 
+<p align="justify"> <strong>January 2026.</strong><strong>Pre-print alert!</strong> A new study led by <strong>Angélica Buenrostro (a.k.a. Monse)</strong>, Ph.D. student at the <strong>Pontificia Universidad Católica de Chile</strong>, in collaboration with <strong>GFZ Potsdam</strong>, is now available as a pre-print. </p> <p align="justify"> This work explores how <strong>epistemic uncertainty in rupture parameters</strong> propagates into earthquake source characterization, with direct implications for seismic hazard assessment in subduction zones. By combining kinematic rupture models with a rigorous uncertainty framework, the study highlights where current assumptions matter most and where future improvements are needed. </p> <p align="justify"> The study builds on close collaboration between Chilean and German teams and is part of a broader effort to better integrate physical modeling and uncertainty quantification in seismology. See <a href="/publications/">Publications section</a> for more info. </p>
+
 <li style="margin-bottom: 15px;">
 <p align="justify"><strong>December 2025:</strong> Our new article "Atmospheric Water Vapor and Precipitation Coupling in Southwestern South America" has been published in <em>Geophysical Research Letters</em>! We analyzed 15–27 years of GNSS-derived precipitable water vapor (PWV) across Chile, revealing how PWV–precipitation coupling varies with latitude and precipitation regime. See <a href="/publications/">Publications section</a> for more info.</p>
 </li>

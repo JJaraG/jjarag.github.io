@@ -17,8 +17,8 @@ Arroyo-Solórzano, M., Crisosto, L., **Jara, J.**, González, Á. & Cotton, F. <
 [- Anatomy of damaged fault zone by aseismically driven seismicity]<br>
 Becker, D., Martínez-Garzón, P., **Jara, J.**, Çakir, Z. & Jolivet, R. <i>Under review at Nature Geoscience</i>.
 
-[- Capturing the epistemic uncertainty in subduction earthquake rupture parameters]<br>
-Buenrostro, A. M., Cotton, F., **Jara, J.**, Crempien, J. & Jünemann, R. <i>Under review at BSSA</i>.
+[- Capturing the epistemic uncertainty in subduction earthquake rupture parameters] (https://doi.org/10.22541/essoar.176826292.23872368/v1)<br>
+Buenrostro, A. M., Cotton, F., **Jara, J.**, Crempien, J. & Jünemann, R. <i>ESSOAr</i>. **2026**, preprint. doi:10.22541/essoar.176826292.23872368/v1. [PDF] (https://github.com/JJaraG/jjarag.github.io/master/files/articles/Monse26.pdf) <i>Under review at BSSA</i>.
 
 **Published**<br>
 
